@@ -1,7 +1,7 @@
 # UnrealEngine--DamageDisplaySystem
 Damage Display System created using blueprints in Unreal Engine 4.21.
 
-**Design Process:** https://unrealpossibilities.blogspot.in/2017/10/unreal-engine-experiments-borderlands-2.html
+**Design Overview:** https://unrealpossibilities.blogspot.in/2017/10/unreal-engine-experiments-borderlands-2.html
 
 **Preview:** https://www.youtube.com/watch?v=SY_14qyeYeQ
 
