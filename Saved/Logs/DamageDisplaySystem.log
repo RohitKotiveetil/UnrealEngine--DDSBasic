@@ -1,0 +1,1514 @@
+﻿Log file open, 11/07/19 17:57:07
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogInit: Display: Running engine for game: DamageDisplaySystem
+LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 14 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.178966
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: +5:30, Platform Override: ''
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin ActorLayerUtilities
+LogPluginManager: Mounting plugin AnimationSharing
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MaterialAnalyzer
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin VariantManagerContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleVision
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin SkeletalReduction
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin LinearTimecode
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WebMMedia
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin NetcodeUnitTest
+LogPluginManager: Mounting plugin NUTUnrealEngine4
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin Firebase
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SignificanceManager
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WebMMoviePlayer
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.1.1
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogInit: Build: ++UE4+Release-4.22-CL-7053642
+LogInit: Engine Version: 4.22.3-7053642+++UE4+Release-4.22
+LogInit: Compatible Engine Version: 4.22.0-5660361+++UE4+Release-4.22
+LogInit: Net CL: 5660361
+LogInit: OS: Windows 10 (Release 1903) (), CPU: Intel(R) Core(TM) i5-4440 CPU @ 3.10GHz, GPU: NVIDIA GeForce GTX 660
+LogInit: Compiled (64-bit): Jun 18 2019 03:09:11
+LogInit: Compiled with Visual C++: 19.16.27025.01
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.22
+LogInit: Command Line: 
+LogInit: Base Directory: C:/Program Files/Epic Games/UE_4.22/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 23
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 3
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 30
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 35
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 2
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 28
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 11
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 2
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 2
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 25
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 6
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogDevObjectVersion:   Dev-Destruction (174F1F0B-B4C6-45A5-B13F-2EE8D0FB917D): 2
+LogInit: Presizing for max 16777216 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
+LogConfig: Setting CVar [[r.setres:1280x720]]
+[2019.11.07-12.27.07:389][  0]LogConfig: Setting CVar [[r.VSync:0]]
+[2019.11.07-12.27.07:389][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
+[2019.11.07-12.27.07:389][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [C:/Users/Rohit/Documents/GitHubProjects/UnrealEngine--DamageDisplaySystem/Saved/Config/Windows/Engine.ini]
+[2019.11.07-12.27.07:390][  0]LogConfig: Setting CVar [[r.GPUCrashDebugging:0]]
+[2019.11.07-12.27.07:390][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [C:/Users/Rohit/Documents/GitHubProjects/UnrealEngine--DamageDisplaySystem/Saved/Config/Windows/Engine.ini]
+[2019.11.07-12.27.07:390][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [C:/Users/Rohit/Documents/GitHubProjects/UnrealEngine--DamageDisplaySystem/Saved/Config/Windows/Engine.ini]
+[2019.11.07-12.27.07:390][  0]LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+[2019.11.07-12.27.07:390][  0]LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+[2019.11.07-12.27.07:390][  0]LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+[2019.11.07-12.27.07:390][  0]LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+[2019.11.07-12.27.07:390][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+[2019.11.07-12.27.07:390][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+[2019.11.07-12.27.07:390][  0]LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+[2019.11.07-12.27.07:390][  0]LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+[2019.11.07-12.27.07:390][  0]LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+[2019.11.07-12.27.07:390][  0]LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+[2019.11.07-12.27.07:390][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+[2019.11.07-12.27.07:390][  0]LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+[2019.11.07-12.27.07:390][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+[2019.11.07-12.27.07:390][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [C:/Users/Rohit/Documents/GitHubProjects/UnrealEngine--DamageDisplaySystem/Saved/Config/Windows/Engine.ini]
+[2019.11.07-12.27.07:390][  0]LogConfig: Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
+[2019.11.07-12.27.07:390][  0]LogConfig: Setting CVar [[gc.SizeOfPermanentObjectPool:0]]
+[2019.11.07-12.27.07:390][  0]LogConfig: Setting CVar [[gc.FlushStreamingOnGC:0]]
+[2019.11.07-12.27.07:390][  0]LogConfig: Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
+[2019.11.07-12.27.07:390][  0]LogConfig: Setting CVar [[gc.AllowParallelGC:1]]
+[2019.11.07-12.27.07:390][  0]LogConfig: Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
+[2019.11.07-12.27.07:390][  0]LogConfig: Setting CVar [[gc.MaxObjectsInEditor:16777216]]
+[2019.11.07-12.27.07:390][  0]LogConfig: Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
+[2019.11.07-12.27.07:390][  0]LogConfig: Setting CVar [[gc.CreateGCClusters:1]]
+[2019.11.07-12.27.07:390][  0]LogConfig: Setting CVar [[gc.MinGCClusterSize:5]]
+[2019.11.07-12.27.07:390][  0]LogConfig: Setting CVar [[gc.ActorClusteringEnabled:0]]
+[2019.11.07-12.27.07:390][  0]LogConfig: Setting CVar [[gc.BlueprintClusteringEnabled:0]]
+[2019.11.07-12.27.07:390][  0]LogConfig: Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
+[2019.11.07-12.27.07:390][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [C:/Users/Rohit/Documents/GitHubProjects/UnrealEngine--DamageDisplaySystem/Saved/Config/Windows/Engine.ini]
+[2019.11.07-12.27.07:390][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [C:/Users/Rohit/Documents/GitHubProjects/UnrealEngine--DamageDisplaySystem/Saved/Config/Windows/Engine.ini]
+[2019.11.07-12.27.07:393][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/Rohit/Documents/GitHubProjects/UnrealEngine--DamageDisplaySystem/Saved/Config/Windows/Scalability.ini]
+[2019.11.07-12.27.07:393][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2019.11.07-12.27.07:393][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2019.11.07-12.27.07:393][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/Rohit/Documents/GitHubProjects/UnrealEngine--DamageDisplaySystem/Saved/Config/Windows/Scalability.ini]
+[2019.11.07-12.27.07:393][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2019.11.07-12.27.07:393][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/Rohit/Documents/GitHubProjects/UnrealEngine--DamageDisplaySystem/Saved/Config/Windows/Scalability.ini]
+[2019.11.07-12.27.07:393][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2019.11.07-12.27.07:393][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2019.11.07-12.27.07:393][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2019.11.07-12.27.07:393][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2019.11.07-12.27.07:393][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2019.11.07-12.27.07:393][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2019.11.07-12.27.07:393][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2019.11.07-12.27.07:393][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2019.11.07-12.27.07:393][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2019.11.07-12.27.07:393][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2019.11.07-12.27.07:393][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2019.11.07-12.27.07:393][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2019.11.07-12.27.07:393][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2019.11.07-12.27.07:393][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2019.11.07-12.27.07:393][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2019.11.07-12.27.07:393][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2019.11.07-12.27.07:393][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2019.11.07-12.27.07:393][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2019.11.07-12.27.07:393][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/Rohit/Documents/GitHubProjects/UnrealEngine--DamageDisplaySystem/Saved/Config/Windows/Scalability.ini]
+[2019.11.07-12.27.07:393][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2019.11.07-12.27.07:393][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2019.11.07-12.27.07:393][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2019.11.07-12.27.07:393][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2019.11.07-12.27.07:393][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2019.11.07-12.27.07:393][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2019.11.07-12.27.07:393][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2019.11.07-12.27.07:393][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2019.11.07-12.27.07:393][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2019.11.07-12.27.07:393][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2019.11.07-12.27.07:393][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2019.11.07-12.27.07:393][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2019.11.07-12.27.07:393][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2019.11.07-12.27.07:393][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2019.11.07-12.27.07:393][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2019.11.07-12.27.07:393][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2019.11.07-12.27.07:393][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2019.11.07-12.27.07:393][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2019.11.07-12.27.07:393][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2019.11.07-12.27.07:393][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2019.11.07-12.27.07:393][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2019.11.07-12.27.07:393][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2019.11.07-12.27.07:393][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2019.11.07-12.27.07:393][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2019.11.07-12.27.07:393][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2019.11.07-12.27.07:393][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2019.11.07-12.27.07:393][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2019.11.07-12.27.07:393][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2019.11.07-12.27.07:393][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2019.11.07-12.27.07:393][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2019.11.07-12.27.07:393][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/Rohit/Documents/GitHubProjects/UnrealEngine--DamageDisplaySystem/Saved/Config/Windows/Scalability.ini]
+[2019.11.07-12.27.07:393][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2019.11.07-12.27.07:393][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2019.11.07-12.27.07:393][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2019.11.07-12.27.07:393][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2019.11.07-12.27.07:393][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2019.11.07-12.27.07:393][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2019.11.07-12.27.07:393][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2019.11.07-12.27.07:393][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2019.11.07-12.27.07:393][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/Rohit/Documents/GitHubProjects/UnrealEngine--DamageDisplaySystem/Saved/Config/Windows/Scalability.ini]
+[2019.11.07-12.27.07:393][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2019.11.07-12.27.07:393][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2019.11.07-12.27.07:393][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2019.11.07-12.27.07:393][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2019.11.07-12.27.07:393][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2019.11.07-12.27.07:393][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2019.11.07-12.27.07:393][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2019.11.07-12.27.07:394][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2019.11.07-12.27.07:394][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2019.11.07-12.27.07:394][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2019.11.07-12.27.07:394][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2019.11.07-12.27.07:394][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2019.11.07-12.27.07:394][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2019.11.07-12.27.07:394][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/Rohit/Documents/GitHubProjects/UnrealEngine--DamageDisplaySystem/Saved/Config/Windows/Scalability.ini]
+[2019.11.07-12.27.07:394][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2019.11.07-12.27.07:394][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2019.11.07-12.27.07:394][  0]LogInit: Selected Device Profile: [Windows]
+[2019.11.07-12.27.07:394][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2019.11.07-12.27.07:406][  0]LogHAL: Display: Platform has ~ 8 GB [8531214336 / 8589934592 / 8], which maps to Default [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2019.11.07-12.27.07:406][  0]LogConfig: Setting CVar [[r.Vulkan.UseRealUBs:0		; Required until we fix HLR fall-out]]
+[2019.11.07-12.27.07:406][  0]LogInit: Going up to parent DeviceProfile []
+[2019.11.07-12.27.07:406][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/Rohit/Documents/GitHubProjects/UnrealEngine--DamageDisplaySystem/Saved/Config/Windows/Scalability.ini]
+[2019.11.07-12.27.07:406][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2019.11.07-12.27.07:406][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2019.11.07-12.27.07:406][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/Rohit/Documents/GitHubProjects/UnrealEngine--DamageDisplaySystem/Saved/Config/Windows/Scalability.ini]
+[2019.11.07-12.27.07:406][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2019.11.07-12.27.07:406][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/Rohit/Documents/GitHubProjects/UnrealEngine--DamageDisplaySystem/Saved/Config/Windows/Scalability.ini]
+[2019.11.07-12.27.07:406][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2019.11.07-12.27.07:406][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2019.11.07-12.27.07:406][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2019.11.07-12.27.07:406][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2019.11.07-12.27.07:406][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2019.11.07-12.27.07:406][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2019.11.07-12.27.07:406][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2019.11.07-12.27.07:406][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2019.11.07-12.27.07:406][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2019.11.07-12.27.07:406][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2019.11.07-12.27.07:406][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2019.11.07-12.27.07:406][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2019.11.07-12.27.07:406][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2019.11.07-12.27.07:406][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2019.11.07-12.27.07:406][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2019.11.07-12.27.07:406][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2019.11.07-12.27.07:406][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2019.11.07-12.27.07:406][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2019.11.07-12.27.07:406][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/Rohit/Documents/GitHubProjects/UnrealEngine--DamageDisplaySystem/Saved/Config/Windows/Scalability.ini]
+[2019.11.07-12.27.07:406][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2019.11.07-12.27.07:406][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2019.11.07-12.27.07:406][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2019.11.07-12.27.07:407][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2019.11.07-12.27.07:407][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2019.11.07-12.27.07:407][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2019.11.07-12.27.07:407][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2019.11.07-12.27.07:407][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2019.11.07-12.27.07:407][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2019.11.07-12.27.07:407][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2019.11.07-12.27.07:407][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2019.11.07-12.27.07:407][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2019.11.07-12.27.07:407][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2019.11.07-12.27.07:407][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2019.11.07-12.27.07:407][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2019.11.07-12.27.07:407][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2019.11.07-12.27.07:407][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2019.11.07-12.27.07:407][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2019.11.07-12.27.07:407][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2019.11.07-12.27.07:407][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2019.11.07-12.27.07:407][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2019.11.07-12.27.07:407][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2019.11.07-12.27.07:407][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2019.11.07-12.27.07:407][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2019.11.07-12.27.07:407][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2019.11.07-12.27.07:407][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2019.11.07-12.27.07:407][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2019.11.07-12.27.07:407][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2019.11.07-12.27.07:407][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2019.11.07-12.27.07:407][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2019.11.07-12.27.07:407][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/Rohit/Documents/GitHubProjects/UnrealEngine--DamageDisplaySystem/Saved/Config/Windows/Scalability.ini]
+[2019.11.07-12.27.07:407][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2019.11.07-12.27.07:407][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2019.11.07-12.27.07:407][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2019.11.07-12.27.07:407][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2019.11.07-12.27.07:407][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2019.11.07-12.27.07:407][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2019.11.07-12.27.07:407][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2019.11.07-12.27.07:407][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2019.11.07-12.27.07:407][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/Rohit/Documents/GitHubProjects/UnrealEngine--DamageDisplaySystem/Saved/Config/Windows/Scalability.ini]
+[2019.11.07-12.27.07:407][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2019.11.07-12.27.07:407][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2019.11.07-12.27.07:407][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2019.11.07-12.27.07:407][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2019.11.07-12.27.07:407][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2019.11.07-12.27.07:407][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2019.11.07-12.27.07:407][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2019.11.07-12.27.07:407][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2019.11.07-12.27.07:407][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2019.11.07-12.27.07:407][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2019.11.07-12.27.07:407][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2019.11.07-12.27.07:407][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2019.11.07-12.27.07:407][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2019.11.07-12.27.07:407][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/Rohit/Documents/GitHubProjects/UnrealEngine--DamageDisplaySystem/Saved/Config/Windows/Scalability.ini]
+[2019.11.07-12.27.07:407][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2019.11.07-12.27.07:407][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2019.11.07-12.27.07:407][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2019.11.07-12.27.07:407][  0]LogConfig: Setting CVar [[net.UseAdaptiveNetUpdateFrequency:0]]
+[2019.11.07-12.27.07:407][  0]LogConfig: Setting CVar [[p.chaos.AllowCreatePhysxBodies:1]]
+[2019.11.07-12.27.07:407][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [C:/Users/Rohit/Documents/GitHubProjects/UnrealEngine--DamageDisplaySystem/Saved/Config/Windows/Engine.ini]
+[2019.11.07-12.27.07:408][  0]LogInit: Computer: ROHIT-PC
+[2019.11.07-12.27.07:408][  0]LogInit: User: Rohit
+[2019.11.07-12.27.07:408][  0]LogInit: CPU Page size=4096, Cores=4
+[2019.11.07-12.27.07:408][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2019.11.07-12.27.07:408][  0]LogMemory: Memory total: Physical=7.9GB (8GB approx)
+[2019.11.07-12.27.07:408][  0]LogMemory: Platform Memory Stats for Windows
+[2019.11.07-12.27.07:408][  0]LogMemory: Process Physical Memory: 96.92 MB used, 96.92 MB peak
+[2019.11.07-12.27.07:408][  0]LogMemory: Process Virtual Memory: 91.86 MB used, 91.86 MB peak
+[2019.11.07-12.27.07:408][  0]LogMemory: Physical Memory: 4937.33 MB used,  3198.67 MB free, 8136.00 MB total
+[2019.11.07-12.27.07:408][  0]LogMemory: Virtual Memory: 4633.01 MB used,  134213096.00 MB free, 134217728.00 MB total
+[2019.11.07-12.27.07:429][  0]LogInit: Using OS detected language (en-US).
+[2019.11.07-12.27.07:429][  0]LogInit: Using OS detected locale (en-US).
+[2019.11.07-12.27.07:430][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so the 'en' localization will be used.
+[2019.11.07-12.27.07:597][  0]LogInit: Setting process to per monitor DPI aware
+[2019.11.07-12.27.07:631][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2019.11.07-12.27.07:631][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2019.11.07-12.27.07:807][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2019.11.07-12.27.07:807][  0]LogD3D11RHI: D3D11 adapters:
+[2019.11.07-12.27.07:871][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 660' (Feature Level 11_0)
+[2019.11.07-12.27.07:871][  0]LogD3D11RHI:       1998/0/4068 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x10de
+[2019.11.07-12.27.07:873][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2019.11.07-12.27.07:873][  0]LogD3D11RHI:       0/0/4068 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2019.11.07-12.27.07:873][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2019.11.07-12.27.07:878][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2019.11.07-12.27.07:878][  0]LogD3D11RHI:     GPU DeviceId: 0x11c0 (for the marketing name, search the web for "GPU Device Id")
+[2019.11.07-12.27.07:878][  0]LogWindows: EnumDisplayDevices:
+[2019.11.07-12.27.07:878][  0]LogWindows:    0. 'NVIDIA GeForce GTX 660' (P:1 D:1)
+[2019.11.07-12.27.07:879][  0]LogWindows:    1. 'NVIDIA GeForce GTX 660' (P:0 D:0)
+[2019.11.07-12.27.07:879][  0]LogWindows:    2. 'NVIDIA GeForce GTX 660' (P:0 D:0)
+[2019.11.07-12.27.07:879][  0]LogWindows:    3. 'NVIDIA GeForce GTX 660' (P:0 D:0)
+[2019.11.07-12.27.07:879][  0]LogWindows: DebugString: FoundDriverCount:4 
+[2019.11.07-12.27.07:879][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 660
+[2019.11.07-12.27.07:879][  0]LogD3D11RHI:   Driver Version: 440.97 (internal:26.21.14.4097, unified:440.97)
+[2019.11.07-12.27.07:879][  0]LogD3D11RHI:      Driver Date: 10-16-2019
+[2019.11.07-12.27.07:879][  0]LogRHI: Texture pool is 1398 MB (70% of 1998 MB)
+[2019.11.07-12.27.07:921][  0]LogD3D11RHI: Async texture creation enabled
+[2019.11.07-12.27.07:927][  0]LogRendererCore: FGlobalReadBuffer::InitRHI
+[2019.11.07-12.27.07:948][  0]LogRendererCore: FGlobalReadBuffer::InitRHI
+[2019.11.07-12.27.07:948][  0]LogRendererCore: FGlobalReadBuffer::InitRHI
+[2019.11.07-12.27.07:958][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 1)
+[2019.11.07-12.27.08:240][  0]LogTemp: Display: Module 'AllDesktopTargetPlatform' loaded TargetPlatform 'AllDesktop'
+[2019.11.07-12.27.08:255][  0]LogTemp: Display: Module 'MacClientTargetPlatform' loaded TargetPlatform 'MacClient'
+[2019.11.07-12.27.08:271][  0]LogTemp: Display: Module 'MacNoEditorTargetPlatform' loaded TargetPlatform 'MacNoEditor'
+[2019.11.07-12.27.08:287][  0]LogTemp: Display: Module 'MacServerTargetPlatform' loaded TargetPlatform 'MacServer'
+[2019.11.07-12.27.08:302][  0]LogTemp: Display: Module 'MacTargetPlatform' loaded TargetPlatform 'Mac'
+[2019.11.07-12.27.08:318][  0]LogTemp: Display: Module 'WindowsClientTargetPlatform' loaded TargetPlatform 'WindowsClient'
+[2019.11.07-12.27.08:334][  0]LogTemp: Display: Module 'WindowsNoEditorTargetPlatform' loaded TargetPlatform 'WindowsNoEditor'
+[2019.11.07-12.27.08:349][  0]LogTemp: Display: Module 'WindowsServerTargetPlatform' loaded TargetPlatform 'WindowsServer'
+[2019.11.07-12.27.08:356][  0]LogTemp: Display: Module 'WindowsTargetPlatform' loaded TargetPlatform 'Windows'
+[2019.11.07-12.27.08:446][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android'
+[2019.11.07-12.27.08:446][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ASTC'
+[2019.11.07-12.27.08:446][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ATC'
+[2019.11.07-12.27.08:446][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_DXT'
+[2019.11.07-12.27.08:446][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1'
+[2019.11.07-12.27.08:446][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1a'
+[2019.11.07-12.27.08:446][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC2'
+[2019.11.07-12.27.08:446][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_PVRTC'
+[2019.11.07-12.27.08:446][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'AndroidClient'
+[2019.11.07-12.27.08:446][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ASTCClient'
+[2019.11.07-12.27.08:446][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ATCClient'
+[2019.11.07-12.27.08:446][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_DXTClient'
+[2019.11.07-12.27.08:446][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1Client'
+[2019.11.07-12.27.08:446][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1aClient'
+[2019.11.07-12.27.08:446][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC2Client'
+[2019.11.07-12.27.08:446][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_PVRTCClient'
+[2019.11.07-12.27.08:446][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_Multi'
+[2019.11.07-12.27.08:446][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_MultiClient'
+[2019.11.07-12.27.08:448][  0]LogTemp: Display: Module 'HTML5TargetPlatform' loaded TargetPlatform 'HTML5'
+[2019.11.07-12.27.08:500][  0]LogTemp: Display: Module 'IOSTargetPlatform' loaded TargetPlatform 'IOSClient'
+[2019.11.07-12.27.08:500][  0]LogTemp: Display: Module 'IOSTargetPlatform' loaded TargetPlatform 'IOS'
+[2019.11.07-12.27.08:526][  0]LogTemp: Display: Module 'TVOSTargetPlatform' loaded TargetPlatform 'TVOSClient'
+[2019.11.07-12.27.08:526][  0]LogTemp: Display: Module 'TVOSTargetPlatform' loaded TargetPlatform 'TVOS'
+[2019.11.07-12.27.08:540][  0]LogTemp: Display: Module 'LinuxClientTargetPlatform' loaded TargetPlatform 'LinuxClient'
+[2019.11.07-12.27.08:554][  0]LogTemp: Display: Module 'LinuxNoEditorTargetPlatform' loaded TargetPlatform 'LinuxNoEditor'
+[2019.11.07-12.27.08:568][  0]LogTemp: Display: Module 'LinuxServerTargetPlatform' loaded TargetPlatform 'LinuxServer'
+[2019.11.07-12.27.08:583][  0]LogTemp: Display: Module 'LinuxTargetPlatform' loaded TargetPlatform 'Linux'
+[2019.11.07-12.27.08:633][  0]LogTemp: Display: Module 'LuminTargetPlatform' loaded TargetPlatform 'Lumin'
+[2019.11.07-12.27.08:633][  0]LogTemp: Display: Module 'LuminTargetPlatform' loaded TargetPlatform 'LuminClient'
+[2019.11.07-12.27.08:633][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2019.11.07-12.27.08:642][  0]LogAudioDebug: Display: Lib vorbis DLL was dynamically loaded.
+[2019.11.07-12.27.08:691][  0]LogShaderCompilers: Guid format shader working directory is -42 characters bigger than the processId version (../../../../../../Users/Rohit/Documents/GitHubProjects/UnrealEngine--DamageDisplaySystem/Intermediate/Shaders/WorkingDirectory/9880/).
+[2019.11.07-12.27.08:691][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/Rohit/AppData/Local/Temp/UnrealShaderWorkingDir/FD14C75546797C7A21D27F9C5BA1CD4B/'.
+[2019.11.07-12.27.08:693][  0]LogXGEController: Cleaning working directory: C:/Users/Rohit/AppData/Local/Temp/UnrealXGEWorkingDir/
+[2019.11.07-12.27.08:694][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2019.11.07-12.27.08:694][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2019.11.07-12.27.08:694][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2019.11.07-12.27.09:318][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2019.11.07-12.27.09:378][  0]LogDerivedDataCache: Loaded boot cache 0.06s 71MB C:/Users/Rohit/AppData/Local/UnrealEngine/4.22/DerivedDataCache/Boot.ddc.
+[2019.11.07-12.27.09:378][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/Rohit/AppData/Local/UnrealEngine/4.22/DerivedDataCache/Boot.ddc
+[2019.11.07-12.27.09:378][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../Users/Rohit/Documents/GitHubProjects/UnrealEngine--DamageDisplaySystem/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2019.11.07-12.27.09:378][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2019.11.07-12.27.09:378][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../../Users/Rohit/Documents/GitHubProjects/UnrealEngine--DamageDisplaySystem/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2019.11.07-12.27.09:378][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2019.11.07-12.27.09:392][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2019.11.07-12.27.09:392][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2019.11.07-12.27.09:392][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchical cache Hierarchy.
+[2019.11.07-12.27.09:405][  0]LogDerivedDataCache: Using Local data cache path C:/Users/Rohit/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2019.11.07-12.27.09:405][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2019.11.07-12.27.09:405][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2019.11.07-12.27.09:428][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2019.11.07-12.27.09:429][  0]LogSlate: Using FreeType 2.6.0
+[2019.11.07-12.27.09:430][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2019.11.07-12.27.09:519][  0]LogAssetRegistry: FAssetRegistry took 0.0342 seconds to start up
+[2019.11.07-12.27.09:875][  0]LogInit: Selected Device Profile: [Windows]
+[2019.11.07-12.27.10:032][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2019.11.07-12.27.10:032][  0]LogMeshReduction: Using SimplygonMeshReduction for automatic skeletal mesh reduction
+[2019.11.07-12.27.10:032][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2019.11.07-12.27.10:032][  0]LogMeshReduction: No distributed automatic mesh merging module available
+[2019.11.07-12.27.10:032][  0]LogMeshMerging: No distributed automatic mesh merging module available
+[2019.11.07-12.27.10:044][  0]LogNetVersion: DamageDisplaySystem 1.0.0, NetCL: 5660361, EngineNetVer: 10, GameNetVer: 0 (Checksum: 4043782449)
+[2019.11.07-12.27.10:487][  0]LogPackageLocalizationCache: Processed 10 localized package path(s) for 1 prioritized culture(s) in 0.040273 seconds
+[2019.11.07-12.27.10:494][  0]LogUObjectArray: 42205 objects as part of root set at end of initial load.
+[2019.11.07-12.27.10:494][  0]LogUObjectAllocator: 7325032 out of 0 bytes used by permanent object pool.
+[2019.11.07-12.27.10:494][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2019.11.07-12.27.11:486][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2019.11.07-12.27.11:510][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2019.11.07-12.27.11:618][  0]SourceControl: Source control is disabled
+[2019.11.07-12.27.11:618][  0]SourceControl: Source control is disabled
+[2019.11.07-12.27.11:620][  0]SourceControl: Source control is disabled
+[2019.11.07-12.27.11:621][  0]SourceControl: Source control is disabled
+[2019.11.07-12.27.11:630][  0]LogVSAccessor: Display: Unable to create Visual Studio setup instance: 80040154
+[2019.11.07-12.27.11:630][  0]LogVSAccessor: Display: Unable to create Visual Studio setup instance: 80040154
+[2019.11.07-12.27.11:694][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2019.11.07-12.27.11:747][  0]LogOcInput: OculusInput pre-init called
+[2019.11.07-12.27.12:455][  0]LogEngine: Initializing Engine...
+[2019.11.07-12.27.12:456][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2019.11.07-12.27.12:457][  0]LogStats: UGameplayTagsManager::InitializeManager -  0.000 s
+[2019.11.07-12.27.12:688][  0]LogInit: Initializing FReadOnlyCVARCache
+[2019.11.07-12.27.12:703][  0]LogAIModule: Creating AISystem for world Untitled
+[2019.11.07-12.27.12:720][  0]LogInit: XAudio2 using 'Headphones (High Definition Audio Device)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2019.11.07-12.27.12:735][  0]LogInit: FAudioDevice initialized.
+[2019.11.07-12.27.12:735][  0]LogNetVersion: Set ProjectVersion to 1.5.2. Version Checksum will be recalculated on next use.
+[2019.11.07-12.27.12:904][  0]LogDerivedDataCache: Saved boot cache 0.17s 71MB C:/Users/Rohit/AppData/Local/UnrealEngine/4.22/DerivedDataCache/Boot.ddc.
+[2019.11.07-12.27.12:915][  0]LogInit: Texture streaming: Enabled
+[2019.11.07-12.27.12:932][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2019.11.07-12.27.12:956][  0]LogInit: Transaction tracking system initialized
+[2019.11.07-12.27.12:983][  0]BlueprintLog: New page: Editor Load
+[2019.11.07-12.27.13:086][  0]LocalizationService: Localization service is disabled
+[2019.11.07-12.27.13:243][  0]LogVSAccessor: Display: Unable to create Visual Studio setup instance: 80040154
+[2019.11.07-12.27.13:244][  0]LogVSAccessor: Display: Unable to create Visual Studio setup instance: 80040154
+[2019.11.07-12.27.13:440][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Rohit/Documents/GitHubProjects/UnrealEngine--DamageDisplaySystem/Content/' took 0.02s
+[2019.11.07-12.27.13:441][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2019.11.07-12.27.13:441][  0]LogCook: Display: Mobile HDR setting 1
+[2019.11.07-12.27.13:631][  0]SourceControl: Source control is disabled
+[2019.11.07-12.27.13:631][  0]Cmd: MAP LOAD FILE="../../../../../../Users/Rohit/Documents/GitHubProjects/UnrealEngine--DamageDisplaySystem/Content/DamageDisplaySystem/Maps/SampleMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2019.11.07-12.27.13:632][  0]LightingResults: New page: Lighting Build
+[2019.11.07-12.27.13:635][  0]MapCheck: New page: Map Check
+[2019.11.07-12.27.13:635][  0]LightingResults: New page: Lighting Build
+[2019.11.07-12.27.13:661][  0]LogUObjectHash: Compacting FUObjectHashTables data took   1.81ms
+[2019.11.07-12.27.14:047][  0]LogTexture: Display: Building textures: HQ_Lightmap1_2 (AutoDXT, 2048X2048)
+[2019.11.07-12.27.14:048][  0]LogTexture: Display: Building textures: HQ_Lightmap1_1 (AutoDXT, 2048X2048)
+[2019.11.07-12.27.14:052][  0]LogMaterial: Display: Missing cached shader map for material M_Basic, compiling. 
+[2019.11.07-12.27.17:326][  0]LogTexture: Display: Building textures: HQ_Lightmap1_3 (AutoDXT, 2048X2048)
+[2019.11.07-12.27.17:326][  0]LogTexture: Display: Building textures: HQ_Lightmap1_4 (AutoDXT, 64X64)
+[2019.11.07-12.27.17:326][  0]LogTexture: Display: Building textures: LQ_Lightmap_1_1 (DXT1, 2048X2048)
+[2019.11.07-12.27.17:326][  0]LogTexture: Display: Building textures: LQ_Lightmap_1_2 (DXT1, 2048X2048)
+[2019.11.07-12.27.17:326][  0]LogTexture: Display: Building textures: LQ_Lightmap_1_3 (DXT1, 2048X2048)
+[2019.11.07-12.27.17:326][  0]LogTexture: Display: Building textures: LQ_Lightmap_1_4 (DXT1, 64X64)
+[2019.11.07-12.27.17:326][  0]LogTexture: Display: Building textures: SkyOcclusion1_1 (AutoDXT, 2048X1024)
+[2019.11.07-12.27.17:326][  0]LogTexture: Display: Building textures: SkyOcclusion1_2 (AutoDXT, 2048X1024)
+[2019.11.07-12.27.17:326][  0]LogTexture: Display: Building textures: SkyOcclusion1_4 (AutoDXT, 64X32)
+[2019.11.07-12.27.17:326][  0]LogTexture: Display: Building textures: ShadowMapTexture2D_10 (G8, 1024X1024)
+[2019.11.07-12.27.17:326][  0]LogTexture: Display: Building textures: SkyOcclusion1_3 (AutoDXT, 2048X1024)
+[2019.11.07-12.27.17:326][  0]LogTexture: Display: Building textures: ShadowMapTexture2D_11 (G8, 1024X1024)
+[2019.11.07-12.27.17:326][  0]LogTexture: Display: Building textures: ShadowMapTexture2D_12 (G8, 1024X1024)
+[2019.11.07-12.27.17:326][  0]LogTexture: Display: Building textures: ShadowMapTexture2D_13 (G8, 32X32)
+[2019.11.07-12.27.17:326][  0]LogTexture: Display: Building textures: ShadowMapTexture2D_8 (G8, 1024X1024)
+[2019.11.07-12.27.17:326][  0]LogTexture: Display: Building textures: ShadowMapTexture2D_9 (G8, 1024X1024)
+[2019.11.07-12.27.17:326][  0]LogMaterial: Display: Missing cached shader map for material M_UE4Man_Body, compiling. 
+[2019.11.07-12.27.17:421][  0]LogMaterial: Display: Missing cached shader map for material M_UE4Man_Body, compiling. 
+[2019.11.07-12.27.17:491][  0]LogSkeletalMesh: Building Skeletal Mesh SK_Mannequin...
+[2019.11.07-12.27.17:572][  0]LogSkeletalMesh: Built Skeletal Mesh [0.08s] /Game/DamageDisplaySystem/Characters/TPCharacter/Mesh/SK_Mannequin.SK_Mannequin
+[2019.11.07-12.27.17:574][  0]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/DamageDisplaySystem/Animations/TPCharacter/Anim_DamageTestPawnIdle.Anim_DamageTestPawnIdle
+[2019.11.07-12.27.17:575][  0]LogAnimationCompression: Recompressing (AnimSequence /Game/DamageDisplaySystem/Animations/TPCharacter/Anim_DamageTestPawnIdle.Anim_DamageTestPawnIdle) using current/default (AnimCompress_RemoveLinearKeys_0) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2019.11.07-12.27.17:659][  0]LogMaterial: Display: Missing cached shader map for material M_FPGun, compiling. 
+[2019.11.07-12.27.17:732][  0]LogSkeletalMesh: Building Skeletal Mesh SK_FPGun...
+[2019.11.07-12.27.17:748][  0]LogSkeletalMesh: Built Skeletal Mesh [0.02s] /Game/DamageDisplaySystem/Weapons/Rifle/Mesh/SK_FPGun.SK_FPGun
+[2019.11.07-12.27.17:753][  0]LogMaterial: Display: Missing cached shader map for material M_UE4Man_Body, compiling. 
+[2019.11.07-12.27.17:812][  0]LogSkeletalMesh: Building Skeletal Mesh SK_Mannequin_Arms...
+[2019.11.07-12.27.17:843][  0]LogSkeletalMesh: Built Skeletal Mesh [0.03s] /Game/DamageDisplaySystem/Characters/FPCharacter/Mesh/SK_Mannequin_Arms.SK_Mannequin_Arms
+[2019.11.07-12.27.17:856][  0]LogAIModule: Creating AISystem for world SampleMap
+[2019.11.07-12.27.17:879][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2019.11.07-12.27.19:847][  0]LogUObjectHash: Compacting FUObjectHashTables data took   2.97ms
+[2019.11.07-12.27.19:847][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2019.11.07-12.27.19:847][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.112ms to complete.
+[2019.11.07-12.27.19:847][  0]LogFileHelpers: Loading map 'SampleMap' took 6.216
+[2019.11.07-12.27.19:936][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.11.07-12.27.19:945][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.11.07-12.27.19:954][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.11.07-12.27.19:961][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.11.07-12.27.19:968][  0]LogCollectionManager: Loaded 0 collections in 0.001793 seconds
+[2019.11.07-12.27.20:013][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Rohit/Documents/GitHubProjects/UnrealEngine--DamageDisplaySystem/Saved/Collections/' took 0.01s
+[2019.11.07-12.27.20:013][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Rohit/Documents/GitHubProjects/UnrealEngine--DamageDisplaySystem/Content/Developers/Rohit/Collections/' took 0.02s
+[2019.11.07-12.27.20:013][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Rohit/Documents/GitHubProjects/UnrealEngine--DamageDisplaySystem/Content/Collections/' took 0.01s
+[2019.11.07-12.27.20:013][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000000 seconds
+[2019.11.07-12.27.20:023][  0]LogContentBrowser: Native class hierarchy populated in 0.0097 seconds. Added 2732 classes and 659 folders.
+[2019.11.07-12.27.20:029][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2019.11.07-12.27.20:031][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.11.07-12.27.20:032][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.11.07-12.27.20:032][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.11.07-12.27.20:032][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.11.07-12.27.20:033][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.11.07-12.27.20:033][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.11.07-12.27.20:034][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.11.07-12.27.20:034][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.11.07-12.27.20:035][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.11.07-12.27.20:035][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.11.07-12.27.20:036][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.11.07-12.27.20:036][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.11.07-12.27.20:037][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.11.07-12.27.20:037][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.11.07-12.27.20:038][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.11.07-12.27.20:038][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.11.07-12.27.20:039][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.11.07-12.27.20:039][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.11.07-12.27.20:040][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.11.07-12.27.20:040][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.11.07-12.27.20:041][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.11.07-12.27.20:041][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.11.07-12.27.20:042][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.11.07-12.27.20:042][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.11.07-12.27.20:043][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.11.07-12.27.20:043][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.11.07-12.27.20:078][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2019.11.07-12.27.20:085][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0003 seconds. Added 1 classes and 2 folders.
+[2019.11.07-12.27.20:102][  0]LogSlate: Took 0.000188 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2019.11.07-12.27.20:104][  0]LogSlate: Took 0.000146 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2019.11.07-12.27.20:109][  0]LogSlate: Took 0.000205 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2019.11.07-12.27.20:180][  0]LogRenderer: Reallocating scene render targets to support 1184x428 Format 10 NumSamples 1 (Frame:1).
+[2019.11.07-12.27.20:320][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2019.11.07-12.27.20:320][  0]LogLoad: (Engine Initialization) Total time: 14.22 seconds
+[2019.11.07-12.27.20:320][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2019.11.07-12.27.20:368][  0]LogAssetRegistry: Asset discovery search completed in 10.8698 seconds
+[2019.11.07-12.27.20:370][  0]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000000 seconds (found 0 objects)
+[2019.11.07-12.27.20:370][  0]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000062 seconds (updated 0 objects)
+[2019.11.07-12.27.20:379][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2019.11.07-12.27.20:400][  0]LogSlate: Took 0.000202 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2019.11.07-12.27.22:261][124]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.07-12.27.45:357][813]LogSlate: Took 0.000196 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2019.11.07-12.27.45:365][813]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/DamageDisplaySystem/Blueprints/TestPawn/BP_DamageTestPawn.BP_DamageTestPawn
+[2019.11.07-12.27.50:470][813]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0008 seconds. Added 121 classes and 0 folders.
+[2019.11.07-12.27.51:435][813]LogSlate: Took 0.000198 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2019.11.07-12.27.51:527][814]LogSlate: Took 0.000155 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2019.11.07-12.28.51:006][397]LogSlate: Window 'BP_DamageTestPawn' being destroyed
+[2019.11.07-12.28.57:856][216]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/DamageDisplaySystem/Blueprints/Core/BPC_FloatingTextSpawner.BPC_FloatingTextSpawner
+[2019.11.07-12.29.29:941][ 20]BlueprintLog: New page: Compile BPC_FloatingTextSpawner
+[2019.11.07-12.29.30:142][ 20]LogUObjectHash: Compacting FUObjectHashTables data took   3.75ms
+[2019.11.07-12.29.30:291][ 27]LogSavePackage: Moving '../../../../../../Users/Rohit/Documents/GitHubProjects/UnrealEngine--DamageDisplaySystem/Saved/BPC_FloatingTextSpawner9C96B71547A86E1C34AA4FB5CD6F7F7F.tmp' to '../../../../../../Users/Rohit/Documents/GitHubProjects/UnrealEngine--DamageDisplaySystem/Content/DamageDisplaySystem/Blueprints/Core/BPC_FloatingTextSpawner.uasset'
+[2019.11.07-12.29.34:757][556]BlueprintLog: New page: Compile BPC_FloatingTextSpawner
+[2019.11.07-12.29.34:936][556]LogUObjectHash: Compacting FUObjectHashTables data took   3.69ms
+[2019.11.07-12.29.35:203][576]LogSavePackage: Moving '../../../../../../Users/Rohit/Documents/GitHubProjects/UnrealEngine--DamageDisplaySystem/Saved/BPC_FloatingTextSpawnerFBB9BEB443196EE3F23850AE4115F163.tmp' to '../../../../../../Users/Rohit/Documents/GitHubProjects/UnrealEngine--DamageDisplaySystem/Content/DamageDisplaySystem/Blueprints/Core/BPC_FloatingTextSpawner.uasset'
+[2019.11.07-12.29.38:575][976]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/DamageDisplaySystem/Maps/SampleMap.SampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/DamageDisplaySystem/Maps/SampleMap.SampleMap:PersistentLevel.SampleMap' with GeneratedClass '/Game/DamageDisplaySystem/Maps/SampleMap.SampleMap_C' with ClassGeneratedBy '/Game/DamageDisplaySystem/Maps/SampleMap.SampleMap:PersistentLevel.SampleMap'
+[2019.11.07-12.29.38:575][976]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.11.07-12.29.38:576][976]PIE: New page: PIE session: SampleMap (Nov 7, 2019, 11:29:38 PM)
+[2019.11.07-12.29.38:588][976]LogPlayLevel: Creating play world package: /Game/DamageDisplaySystem/Maps/UEDPIE_0_SampleMap
+[2019.11.07-12.29.38:603][976]LogPlayLevel: PIE: StaticDuplicateObject took: (0.014759s)
+[2019.11.07-12.29.38:603][976]LogAIModule: Creating AISystem for world SampleMap
+[2019.11.07-12.29.38:604][976]LogPlayLevel: PIE: World Init took: (0.000759s)
+[2019.11.07-12.29.38:604][976]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/DamageDisplaySystem/Maps/SampleMap.SampleMap to /Game/DamageDisplaySystem/Maps/UEDPIE_0_SampleMap.SampleMap (0.015825s)
+[2019.11.07-12.29.38:646][976]LogUObjectHash: Compacting FUObjectHashTables data took   3.82ms
+[2019.11.07-12.29.38:652][976]LogInit: XAudio2 using 'Headphones (High Definition Audio Device)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2019.11.07-12.29.38:662][976]LogInit: FAudioDevice initialized.
+[2019.11.07-12.29.38:670][976]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.11.07-12.29.38:718][976]LogLoad: Game class is 'BP_GameMode_C'
+[2019.11.07-12.29.38:721][976]LogWorld: Bringing World /Game/DamageDisplaySystem/Maps/UEDPIE_0_SampleMap.SampleMap up for play (max tick rate 0) at 2019.11.07-17.59.38
+[2019.11.07-12.29.38:731][976]LogWorld: Bringing up level for play took: 0.011463
+[2019.11.07-12.29.38:743][976]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2019.11.07-12.29.38:750][976]LogBlueprintActionDatabase: Requesting refresh due to module change: Voice (loaded)
+[2019.11.07-12.29.38:756][976]LogBlueprintActionDatabase: Requesting refresh due to module change: MovieSceneCapture (loaded)
+[2019.11.07-12.29.38:756][976]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0003 seconds. Added 20 classes and 0 folders.
+[2019.11.07-12.29.38:758][976]PIE: Play in editor start time for /Game/DamageDisplaySystem/Maps/UEDPIE_0_SampleMap 0.482
+[2019.11.07-12.29.38:758][976]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/DamageDisplaySystem/Maps/SampleMap.SampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/DamageDisplaySystem/Maps/SampleMap.SampleMap:PersistentLevel.SampleMap' with GeneratedClass '/Game/DamageDisplaySystem/Maps/SampleMap.SampleMap_C' with ClassGeneratedBy '/Game/DamageDisplaySystem/Maps/SampleMap.SampleMap:PersistentLevel.SampleMap'
+[2019.11.07-12.29.39:085][978]LogRenderer: Reallocating scene render targets to support 1272x688 Format 10 NumSamples 1 (Frame:1).
+[2019.11.07-12.29.44:410][584]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/DamageDisplaySystem/Maps/SampleMap.SampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/DamageDisplaySystem/Maps/SampleMap.SampleMap:PersistentLevel.SampleMap' with GeneratedClass '/Game/DamageDisplaySystem/Maps/SampleMap.SampleMap_C' with ClassGeneratedBy '/Game/DamageDisplaySystem/Maps/SampleMap.SampleMap:PersistentLevel.SampleMap'
+[2019.11.07-12.29.44:411][584]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.11.07-12.29.44:421][584]LogSlate: Window 'Damage Display System Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2019.11.07-12.29.44:459][584]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.11.07-12.29.44:459][584]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/DamageDisplaySystem/Maps/SampleMap.SampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/DamageDisplaySystem/Maps/SampleMap.SampleMap:PersistentLevel.SampleMap' with GeneratedClass '/Game/DamageDisplaySystem/Maps/SampleMap.SampleMap_C' with ClassGeneratedBy '/Game/DamageDisplaySystem/Maps/SampleMap.SampleMap:PersistentLevel.SampleMap'
+[2019.11.07-12.29.44:532][584]LogUObjectHash: Compacting FUObjectHashTables data took   5.96ms
+[2019.11.07-12.29.44:543][585]LogPlayLevel: Display: Destroying online subsystem :Context_6
+[2019.11.07-12.30.05:964][ 61]LogEditorTransaction: Undo Move Node
+[2019.11.07-12.30.09:909][516]BlueprintLog: New page: Compile BPC_FloatingTextSpawner
+[2019.11.07-12.30.10:170][516]LogUObjectHash: Compacting FUObjectHashTables data took   5.70ms
+[2019.11.07-12.30.10:227][516]LogSavePackage: Moving '../../../../../../Users/Rohit/Documents/GitHubProjects/UnrealEngine--DamageDisplaySystem/Saved/BPC_FloatingTextSpawner37DCA5624E3101C3BE71B886C4CC18C5.tmp' to '../../../../../../Users/Rohit/Documents/GitHubProjects/UnrealEngine--DamageDisplaySystem/Content/DamageDisplaySystem/Blueprints/Core/BPC_FloatingTextSpawner.uasset'
+[2019.11.07-12.30.25:589][170]BlueprintLog: New page: Compile BPC_FloatingTextSpawner
+[2019.11.07-12.30.25:893][170]LogUObjectHash: Compacting FUObjectHashTables data took   6.67ms
+[2019.11.07-12.30.26:278][204]LogSavePackage: Moving '../../../../../../Users/Rohit/Documents/GitHubProjects/UnrealEngine--DamageDisplaySystem/Saved/BPC_FloatingTextSpawnerBEB9FAAC40D6C8C785990FBA17392890.tmp' to '../../../../../../Users/Rohit/Documents/GitHubProjects/UnrealEngine--DamageDisplaySystem/Content/DamageDisplaySystem/Blueprints/Core/BPC_FloatingTextSpawner.uasset'
+[2019.11.07-12.30.31:879][855]BlueprintLog: New page: Compile BPC_FloatingTextSpawner
+[2019.11.07-12.30.31:883][855]LogBlueprint: Error: [Compiler BP_DamageTestPawn] In use pin  Is ACrit Hit?  no longer exists on node  Event on Damage Received . Please refresh node or break links to remove pin.
+[2019.11.07-12.30.31:890][855]LogBlueprint: Warning: [Compiler BP_DamageTestPawn] [0205.79] Compile of BP_DamageTestPawn failed. 1 Fatal Issue(s) 0 Warning(s) [in 10 ms] (/Game/DamageDisplaySystem/Blueprints/TestPawn/BP_DamageTestPawn.BP_DamageTestPawn)
+[2019.11.07-12.30.31:890][855]LogActorComponent: RegisterComponentWithWorld: Owner belongs to a DEADCLASS
+[2019.11.07-12.30.31:890][855]LogActorComponent: RegisterComponentWithWorld: Owner belongs to a DEADCLASS
+[2019.11.07-12.30.31:890][855]LogActorComponent: RegisterComponentWithWorld: Owner belongs to a DEADCLASS
+[2019.11.07-12.30.32:099][855]LogUObjectHash: Compacting FUObjectHashTables data took   4.55ms
+[2019.11.07-12.30.32:151][855]LogSavePackage: Moving '../../../../../../Users/Rohit/Documents/GitHubProjects/UnrealEngine--DamageDisplaySystem/Saved/BPC_FloatingTextSpawnerD9B719FA48177D0C5EDC69B77CAE389A.tmp' to '../../../../../../Users/Rohit/Documents/GitHubProjects/UnrealEngine--DamageDisplaySystem/Content/DamageDisplaySystem/Blueprints/Core/BPC_FloatingTextSpawner.uasset'
+[2019.11.07-12.30.51:439][151]BlueprintLog: New page: Compile BPC_FloatingTextSpawner
+[2019.11.07-12.30.51:490][151]LogUObjectHash: Compacting FUObjectHashTables data took   4.46ms
+[2019.11.07-12.30.51:684][165]LogSavePackage: Moving '../../../../../../Users/Rohit/Documents/GitHubProjects/UnrealEngine--DamageDisplaySystem/Saved/BPC_FloatingTextSpawnerEB715CF149139AC51665E6B90D8FE49B.tmp' to '../../../../../../Users/Rohit/Documents/GitHubProjects/UnrealEngine--DamageDisplaySystem/Content/DamageDisplaySystem/Blueprints/Core/BPC_FloatingTextSpawner.uasset'
+[2019.11.07-12.31.16:069][995]BlueprintLog: New page: Compile BP_DamageTestPawn
+[2019.11.07-12.31.16:306][995]LogUObjectHash: Compacting FUObjectHashTables data took   6.06ms
+[2019.11.07-12.31.16:420][995]LogSavePackage: Moving '../../../../../../Users/Rohit/Documents/GitHubProjects/UnrealEngine--DamageDisplaySystem/Saved/BP_DamageTestPawnE975EEFE412D261B5597878B9FC8313E.tmp' to '../../../../../../Users/Rohit/Documents/GitHubProjects/UnrealEngine--DamageDisplaySystem/Content/DamageDisplaySystem/Blueprints/TestPawn/BP_DamageTestPawn.uasset'
+[2019.11.07-12.31.18:859][233]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/DamageDisplaySystem/Blueprints/Projectiles/BP_BulletProjectile.BP_BulletProjectile
+[2019.11.07-12.31.35:120][ 84]LogEditorTransaction: Undo Delete current selection
+[2019.11.07-12.31.35:612][139]BlueprintLog: New page: Compile BP_BulletProjectile
+[2019.11.07-12.31.35:863][139]LogUObjectHash: Compacting FUObjectHashTables data took   4.64ms
+[2019.11.07-12.31.41:520][792]LogEditorTransaction: Undo Remove Variable
+[2019.11.07-12.31.41:928][837]LogEditorTransaction: Undo Remove Variable
+[2019.11.07-12.31.42:300][877]LogEditorTransaction: Undo Move Node
+[2019.11.07-12.31.42:890][941]LogEditorTransaction: Undo Delete current selection
+[2019.11.07-12.32.20:879][430]BlueprintLog: New page: Compile BP_BulletProjectile
+[2019.11.07-12.32.21:114][430]LogUObjectHash: Compacting FUObjectHashTables data took   5.72ms
+[2019.11.07-12.32.21:218][430]LogSavePackage: Moving '../../../../../../Users/Rohit/Documents/GitHubProjects/UnrealEngine--DamageDisplaySystem/Saved/BP_BulletProjectile71F76B114872E8B4D26634BB0123FD3A.tmp' to '../../../../../../Users/Rohit/Documents/GitHubProjects/UnrealEngine--DamageDisplaySystem/Content/DamageDisplaySystem/Blueprints/Projectiles/BP_BulletProjectile.uasset'
+[2019.11.07-12.32.23:370][664]BlueprintLog: New page: Compile BP_BulletProjectile
+[2019.11.07-12.32.23:610][664]LogUObjectHash: Compacting FUObjectHashTables data took   4.96ms
+[2019.11.07-12.32.23:701][664]LogSavePackage: Moving '../../../../../../Users/Rohit/Documents/GitHubProjects/UnrealEngine--DamageDisplaySystem/Saved/BP_BulletProjectile730104324C245A2C0723F48B85154397.tmp' to '../../../../../../Users/Rohit/Documents/GitHubProjects/UnrealEngine--DamageDisplaySystem/Content/DamageDisplaySystem/Blueprints/Projectiles/BP_BulletProjectile.uasset'
+[2019.11.07-12.32.24:638][762]LogUObjectHash: Compacting FUObjectHashTables data took   5.14ms
+[2019.11.07-12.32.24:707][762]LogUObjectHash: Compacting FUObjectHashTables data took   1.21ms
+[2019.11.07-12.32.24:974][762]LogSavePackage: Moving '../../../../../../Users/Rohit/Documents/GitHubProjects/UnrealEngine--DamageDisplaySystem/Saved/SampleMap880FBE2B4A605C35CE1BA58615C8289F.tmp' to '../../../../../../Users/Rohit/Documents/GitHubProjects/UnrealEngine--DamageDisplaySystem/Content/DamageDisplaySystem/Maps/SampleMap.umap'
+[2019.11.07-12.32.25:000][762]LogFileHelpers: Saving map 'SampleMap' took 0.349
+[2019.11.07-12.32.30:663][422]LogEditorTransaction: Undo Delete current selection
+[2019.11.07-12.32.31:907][555]BlueprintLog: New page: Compile BP_DamageTestPawn
+[2019.11.07-12.32.32:153][555]LogUObjectHash: Compacting FUObjectHashTables data took   4.69ms
+[2019.11.07-12.32.32:261][555]LogSavePackage: Moving '../../../../../../Users/Rohit/Documents/GitHubProjects/UnrealEngine--DamageDisplaySystem/Saved/BP_DamageTestPawnC3AE5F824711BCB8C75FDDB5B371DE91.tmp' to '../../../../../../Users/Rohit/Documents/GitHubProjects/UnrealEngine--DamageDisplaySystem/Content/DamageDisplaySystem/Blueprints/TestPawn/BP_DamageTestPawn.uasset'
+[2019.11.07-12.32.33:178][654]BlueprintLog: New page: Compile BP_DamageTestPawn
+[2019.11.07-12.32.33:487][654]LogUObjectHash: Compacting FUObjectHashTables data took   5.80ms
+[2019.11.07-12.32.33:601][654]LogSavePackage: Moving '../../../../../../Users/Rohit/Documents/GitHubProjects/UnrealEngine--DamageDisplaySystem/Saved/BP_DamageTestPawn15026D2E4D80E64CD55955B6438B970D.tmp' to '../../../../../../Users/Rohit/Documents/GitHubProjects/UnrealEngine--DamageDisplaySystem/Content/DamageDisplaySystem/Blueprints/TestPawn/BP_DamageTestPawn.uasset'
+[2019.11.07-12.32.36:425][912]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/DamageDisplaySystem/Blueprints/BP_PlayerCharacter.BP_PlayerCharacter
+[2019.11.07-12.32.44:722][638]LogSavePackage: Moving '../../../../../../Users/Rohit/Documents/GitHubProjects/UnrealEngine--DamageDisplaySystem/Saved/BP_PlayerCharacter44094C454B1F38BF1B31B19CD6D6FBB0.tmp' to '../../../../../../Users/Rohit/Documents/GitHubProjects/UnrealEngine--DamageDisplaySystem/Content/DamageDisplaySystem/Blueprints/BP_PlayerCharacter.uasset'
+[2019.11.07-12.32.46:774][799]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/DamageDisplaySystem/Blueprints/BP_PlayerHUD.BP_PlayerHUD
+[2019.11.07-12.32.49:751][ 66]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/DamageDisplaySystem/Blueprints/BP_GameMode.BP_GameMode
+[2019.11.07-12.32.54:137][467]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2019.11.07-12.32.55:116][551]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/DamageDisplaySystem/Blueprints/TestPawn/BPI_DamageSystem.BPI_DamageSystem
+[2019.11.07-12.32.58:211][806]BlueprintLog: New page: Compile BPI_DamageSystem
+[2019.11.07-12.32.58:304][806]LogUObjectHash: Compacting FUObjectHashTables data took   7.45ms
+[2019.11.07-12.32.58:456][819]LogSavePackage: Moving '../../../../../../Users/Rohit/Documents/GitHubProjects/UnrealEngine--DamageDisplaySystem/Saved/BPI_DamageSystemABBE07134F74FDB4CD64039B79FDCD71.tmp' to '../../../../../../Users/Rohit/Documents/GitHubProjects/UnrealEngine--DamageDisplaySystem/Content/DamageDisplaySystem/Blueprints/TestPawn/BPI_DamageSystem.uasset'
+[2019.11.07-12.32.58:750][844]LogSlate: Window 'BPI_DamageSystem' being destroyed
+[2019.11.07-12.32.59:537][901]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/DamageDisplaySystem/Blueprints/TestPawn/BP_DamageTestPawn.BP_DamageTestPawn
+[2019.11.07-12.33.04:110][283]LogSlate: Window 'Message' being destroyed
+[2019.11.07-12.33.05:096][398]BlueprintLog: New page: Compile BP_DamageTestPawn
+[2019.11.07-12.33.05:353][398]LogUObjectHash: Compacting FUObjectHashTables data took   6.03ms
+[2019.11.07-12.33.05:456][398]LogSavePackage: Moving '../../../../../../Users/Rohit/Documents/GitHubProjects/UnrealEngine--DamageDisplaySystem/Saved/BP_DamageTestPawnE7DFA87E47E8B60E8030FAA3A352F93F.tmp' to '../../../../../../Users/Rohit/Documents/GitHubProjects/UnrealEngine--DamageDisplaySystem/Content/DamageDisplaySystem/Blueprints/TestPawn/BP_DamageTestPawn.uasset'
+[2019.11.07-12.33.06:932][549]BlueprintLog: New page: Compile BP_DamageTestPawn
+[2019.11.07-12.33.07:117][549]LogUObjectHash: Compacting FUObjectHashTables data took   4.10ms
+[2019.11.07-12.33.07:225][550]LogSavePackage: Moving '../../../../../../Users/Rohit/Documents/GitHubProjects/UnrealEngine--DamageDisplaySystem/Saved/BP_DamageTestPawn48D6F4364E1E12DF8848799AB584FC6A.tmp' to '../../../../../../Users/Rohit/Documents/GitHubProjects/UnrealEngine--DamageDisplaySystem/Content/DamageDisplaySystem/Blueprints/TestPawn/BP_DamageTestPawn.uasset'
+[2019.11.07-12.33.09:936][827]LogUObjectHash: Compacting FUObjectHashTables data took   4.44ms
+[2019.11.07-12.33.10:015][827]LogUObjectHash: Compacting FUObjectHashTables data took   1.59ms
+[2019.11.07-12.33.10:281][827]LogSavePackage: Moving '../../../../../../Users/Rohit/Documents/GitHubProjects/UnrealEngine--DamageDisplaySystem/Saved/SampleMap7FADE8294A779403FC2063BD2972B51F.tmp' to '../../../../../../Users/Rohit/Documents/GitHubProjects/UnrealEngine--DamageDisplaySystem/Content/DamageDisplaySystem/Maps/SampleMap.umap'
+[2019.11.07-12.33.10:307][827]LogFileHelpers: Saving map 'SampleMap' took 0.354
+[2019.11.07-12.33.10:937][875]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/DamageDisplaySystem/Blueprints/TestPawn/BPC_DamageCalculator.BPC_DamageCalculator
+[2019.11.07-12.33.13:604][983]LogSlate: Window 'BPC_DamageCalculator' being destroyed
+[2019.11.07-12.33.14:619][ 51]LogUObjectHash: Compacting FUObjectHashTables data took   4.78ms
+[2019.11.07-12.33.15:543][ 51]LogSlate: Window 'Delete Assets' being destroyed
+[2019.11.07-12.33.15:547][ 51]LogUObjectGlobals: Force Deleting 1 Package(s):
+	Asset Name: /Game/DamageDisplaySystem/Blueprints/TestPawn/BPC_DamageCalculator.BPC_DamageCalculator
+[2019.11.07-12.33.16:707][ 51]LogUObjectHash: Compacting FUObjectHashTables data took   3.67ms
+[2019.11.07-12.33.16:745][ 51]LogUObjectHash: Compacting FUObjectHashTables data took   2.69ms
+[2019.11.07-12.33.16:780][ 51]LogUObjectHash: Compacting FUObjectHashTables data took   0.93ms
+[2019.11.07-12.33.25:857][421]LogUObjectHash: Compacting FUObjectHashTables data took   6.04ms
+[2019.11.07-12.33.26:649][421]LogSlate: Window 'Delete Assets' being destroyed
+[2019.11.07-12.33.26:718][421]LogUObjectHash: Compacting FUObjectHashTables data took   2.83ms
+[2019.11.07-12.33.26:755][421]LogUObjectHash: Compacting FUObjectHashTables data took   2.67ms
+[2019.11.07-12.33.26:792][421]LogUObjectHash: Compacting FUObjectHashTables data took   1.03ms
+[2019.11.07-12.33.29:269][636]LogUObjectHash: Compacting FUObjectHashTables data took   0.89ms
+[2019.11.07-12.33.35:787][197]LogUObjectHash: Compacting FUObjectHashTables data took   4.31ms
+[2019.11.07-12.33.36:605][197]LogSlate: Window 'Delete Assets' being destroyed
+[2019.11.07-12.33.36:678][197]LogUObjectHash: Compacting FUObjectHashTables data took   3.20ms
+[2019.11.07-12.33.36:716][197]LogUObjectHash: Compacting FUObjectHashTables data took   2.55ms
+[2019.11.07-12.33.36:753][197]LogUObjectHash: Compacting FUObjectHashTables data took   0.97ms
+[2019.11.07-12.33.40:680][550]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/DamageDisplaySystem/Blueprints/Core/BP_FloatingText_Status.BP_FloatingText_Status
+[2019.11.07-12.33.56:379][485]LogSavePackage: Moving '../../../../../../Users/Rohit/Documents/GitHubProjects/UnrealEngine--DamageDisplaySystem/Saved/BP_FloatingText_Status75C88E49429BB933EBAFDAB8D772A7D9.tmp' to '../../../../../../Users/Rohit/Documents/GitHubProjects/UnrealEngine--DamageDisplaySystem/Content/DamageDisplaySystem/Blueprints/Core/BP_FloatingText_Status.uasset'
+[2019.11.07-12.33.56:833][510]LogSlate: Window 'BP_FloatingText_Status' being destroyed
+[2019.11.07-12.33.57:925][597]LogUObjectHash: Compacting FUObjectHashTables data took   1.19ms
+[2019.11.07-12.33.59:408][720]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/DamageDisplaySystem/Blueprints/Core/BPC_FloatingTextSpawner.BPC_FloatingTextSpawner
+[2019.11.07-12.34.12:111][  2]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/DamageDisplaySystem/Blueprints/Core/BP_FloatingText_Parent.BP_FloatingText_Parent
+[2019.11.07-12.34.26:314][478]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2019.11.07-12.34.26:342][478]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/DamageDisplaySystem/Maps/SampleMap.SampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/DamageDisplaySystem/Maps/SampleMap.SampleMap:PersistentLevel.SampleMap' with GeneratedClass '/Game/DamageDisplaySystem/Maps/SampleMap.SampleMap_C' with ClassGeneratedBy '/Game/DamageDisplaySystem/Maps/SampleMap.SampleMap:PersistentLevel.SampleMap'
+[2019.11.07-12.34.26:343][478]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.11.07-12.34.26:343][478]PIE: New page: PIE session: SampleMap (Nov 7, 2019, 11:34:26 PM)
+[2019.11.07-12.34.26:343][478]LogPlayLevel: Creating play world package: /Game/DamageDisplaySystem/Maps/UEDPIE_0_SampleMap
+[2019.11.07-12.34.26:356][478]LogPlayLevel: PIE: StaticDuplicateObject took: (0.012850s)
+[2019.11.07-12.34.26:356][478]LogAIModule: Creating AISystem for world SampleMap
+[2019.11.07-12.34.26:357][478]LogPlayLevel: PIE: World Init took: (0.000830s)
+[2019.11.07-12.34.26:357][478]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/DamageDisplaySystem/Maps/SampleMap.SampleMap to /Game/DamageDisplaySystem/Maps/UEDPIE_0_SampleMap.SampleMap (0.013878s)
+[2019.11.07-12.34.26:404][478]LogUObjectHash: Compacting FUObjectHashTables data took   2.63ms
+[2019.11.07-12.34.26:411][478]LogInit: XAudio2 using 'Headphones (High Definition Audio Device)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2019.11.07-12.34.26:425][478]LogInit: FAudioDevice initialized.
+[2019.11.07-12.34.26:432][478]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.11.07-12.34.26:466][478]LogLoad: Game class is 'BP_GameMode_C'
+[2019.11.07-12.34.26:468][478]LogWorld: Bringing World /Game/DamageDisplaySystem/Maps/UEDPIE_0_SampleMap.SampleMap up for play (max tick rate 0) at 2019.11.07-18.04.26
+[2019.11.07-12.34.26:469][478]LogWorld: Bringing up level for play took: 0.002385
+[2019.11.07-12.34.26:481][478]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2019.11.07-12.34.26:483][478]PIE: Play in editor start time for /Game/DamageDisplaySystem/Maps/UEDPIE_0_SampleMap 0.208
+[2019.11.07-12.34.26:483][478]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/DamageDisplaySystem/Maps/SampleMap.SampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/DamageDisplaySystem/Maps/SampleMap.SampleMap:PersistentLevel.SampleMap' with GeneratedClass '/Game/DamageDisplaySystem/Maps/SampleMap.SampleMap_C' with ClassGeneratedBy '/Game/DamageDisplaySystem/Maps/SampleMap.SampleMap:PersistentLevel.SampleMap'
+[2019.11.07-12.34.33:648][ 51]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/DamageDisplaySystem/Maps/SampleMap.SampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/DamageDisplaySystem/Maps/SampleMap.SampleMap:PersistentLevel.SampleMap' with GeneratedClass '/Game/DamageDisplaySystem/Maps/SampleMap.SampleMap_C' with ClassGeneratedBy '/Game/DamageDisplaySystem/Maps/SampleMap.SampleMap:PersistentLevel.SampleMap'
+[2019.11.07-12.34.33:649][ 51]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.11.07-12.34.33:660][ 51]LogSlate: Window 'Damage Display System Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2019.11.07-12.34.33:695][ 51]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.11.07-12.34.33:696][ 51]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/DamageDisplaySystem/Maps/SampleMap.SampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/DamageDisplaySystem/Maps/SampleMap.SampleMap:PersistentLevel.SampleMap' with GeneratedClass '/Game/DamageDisplaySystem/Maps/SampleMap.SampleMap_C' with ClassGeneratedBy '/Game/DamageDisplaySystem/Maps/SampleMap.SampleMap:PersistentLevel.SampleMap'
+[2019.11.07-12.34.33:776][ 51]LogUObjectHash: Compacting FUObjectHashTables data took   3.15ms
+[2019.11.07-12.34.33:790][ 52]LogPlayLevel: Display: Destroying online subsystem :Context_17
+[2019.11.07-12.35.09:709][309]BlueprintLog: New page: Compile BP_FloatingText_Status
+[2019.11.07-12.35.09:924][309]LogUObjectHash: Compacting FUObjectHashTables data took   4.26ms
+[2019.11.07-12.35.10:082][310]LogSavePackage: Moving '../../../../../../Users/Rohit/Documents/GitHubProjects/UnrealEngine--DamageDisplaySystem/Saved/BP_FloatingText_Status186A1FAA417B797D060EABAA692CCF3A.tmp' to '../../../../../../Users/Rohit/Documents/GitHubProjects/UnrealEngine--DamageDisplaySystem/Content/DamageDisplaySystem/Blueprints/Core/BP_FloatingText_Status.uasset'
+[2019.11.07-12.35.39:228][421]BlueprintLog: New page: Compile BP_FloatingText_Parent
+[2019.11.07-12.35.39:431][421]LogUObjectHash: Compacting FUObjectHashTables data took   4.09ms
+[2019.11.07-12.35.39:917][471]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2019.11.07-12.35.39:938][471]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/DamageDisplaySystem/Maps/SampleMap.SampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/DamageDisplaySystem/Maps/SampleMap.SampleMap:PersistentLevel.SampleMap' with GeneratedClass '/Game/DamageDisplaySystem/Maps/SampleMap.SampleMap_C' with ClassGeneratedBy '/Game/DamageDisplaySystem/Maps/SampleMap.SampleMap:PersistentLevel.SampleMap'
+[2019.11.07-12.35.39:938][471]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.11.07-12.35.39:938][471]PIE: New page: PIE session: SampleMap (Nov 7, 2019, 11:35:39 PM)
+[2019.11.07-12.35.39:938][471]LogPlayLevel: Creating play world package: /Game/DamageDisplaySystem/Maps/UEDPIE_0_SampleMap
+[2019.11.07-12.35.39:952][471]LogPlayLevel: PIE: StaticDuplicateObject took: (0.013133s)
+[2019.11.07-12.35.39:952][471]LogAIModule: Creating AISystem for world SampleMap
+[2019.11.07-12.35.39:952][471]LogPlayLevel: PIE: World Init took: (0.000856s)
+[2019.11.07-12.35.39:952][471]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/DamageDisplaySystem/Maps/SampleMap.SampleMap to /Game/DamageDisplaySystem/Maps/UEDPIE_0_SampleMap.SampleMap (0.014182s)
+[2019.11.07-12.35.40:009][471]LogUObjectHash: Compacting FUObjectHashTables data took   5.92ms
+[2019.11.07-12.35.40:016][471]LogInit: XAudio2 using 'Headphones (High Definition Audio Device)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2019.11.07-12.35.40:031][471]LogInit: FAudioDevice initialized.
+[2019.11.07-12.35.40:040][471]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.11.07-12.35.40:074][471]LogLoad: Game class is 'BP_GameMode_C'
+[2019.11.07-12.35.40:078][471]LogWorld: Bringing World /Game/DamageDisplaySystem/Maps/UEDPIE_0_SampleMap.SampleMap up for play (max tick rate 0) at 2019.11.07-18.05.40
+[2019.11.07-12.35.40:078][471]LogWorld: Bringing up level for play took: 0.003426
+[2019.11.07-12.35.40:091][471]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2019.11.07-12.35.40:094][471]PIE: Play in editor start time for /Game/DamageDisplaySystem/Maps/UEDPIE_0_SampleMap -0.18
+[2019.11.07-12.35.40:095][471]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/DamageDisplaySystem/Maps/SampleMap.SampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/DamageDisplaySystem/Maps/SampleMap.SampleMap:PersistentLevel.SampleMap' with GeneratedClass '/Game/DamageDisplaySystem/Maps/SampleMap.SampleMap_C' with ClassGeneratedBy '/Game/DamageDisplaySystem/Maps/SampleMap.SampleMap:PersistentLevel.SampleMap'
+[2019.11.07-12.35.43:860][740]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/DamageDisplaySystem/Maps/SampleMap.SampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/DamageDisplaySystem/Maps/SampleMap.SampleMap:PersistentLevel.SampleMap' with GeneratedClass '/Game/DamageDisplaySystem/Maps/SampleMap.SampleMap_C' with ClassGeneratedBy '/Game/DamageDisplaySystem/Maps/SampleMap.SampleMap:PersistentLevel.SampleMap'
+[2019.11.07-12.35.43:861][740]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.11.07-12.35.43:898][740]LogSlate: Window 'Damage Display System Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2019.11.07-12.35.43:938][740]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.11.07-12.35.43:938][740]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/DamageDisplaySystem/Maps/SampleMap.SampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/DamageDisplaySystem/Maps/SampleMap.SampleMap:PersistentLevel.SampleMap' with GeneratedClass '/Game/DamageDisplaySystem/Maps/SampleMap.SampleMap_C' with ClassGeneratedBy '/Game/DamageDisplaySystem/Maps/SampleMap.SampleMap:PersistentLevel.SampleMap'
+[2019.11.07-12.35.44:005][740]LogUObjectHash: Compacting FUObjectHashTables data took   3.55ms
+[2019.11.07-12.35.44:017][741]LogPlayLevel: Display: Destroying online subsystem :Context_18
+[2019.11.07-12.36.08:515][387]BlueprintLog: New page: Compile BP_FloatingText_Parent
+[2019.11.07-12.36.08:903][387]LogUObjectHash: Compacting FUObjectHashTables data took   3.41ms
+[2019.11.07-12.36.09:066][398]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2019.11.07-12.36.09:095][398]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/DamageDisplaySystem/Maps/SampleMap.SampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/DamageDisplaySystem/Maps/SampleMap.SampleMap:PersistentLevel.SampleMap' with GeneratedClass '/Game/DamageDisplaySystem/Maps/SampleMap.SampleMap_C' with ClassGeneratedBy '/Game/DamageDisplaySystem/Maps/SampleMap.SampleMap:PersistentLevel.SampleMap'
+[2019.11.07-12.36.09:095][398]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.11.07-12.36.09:095][398]PIE: New page: PIE session: SampleMap (Nov 7, 2019, 11:36:09 PM)
+[2019.11.07-12.36.09:095][398]LogPlayLevel: Creating play world package: /Game/DamageDisplaySystem/Maps/UEDPIE_0_SampleMap
+[2019.11.07-12.36.09:112][398]LogPlayLevel: PIE: StaticDuplicateObject took: (0.016582s)
+[2019.11.07-12.36.09:113][398]LogAIModule: Creating AISystem for world SampleMap
+[2019.11.07-12.36.09:113][398]LogPlayLevel: PIE: World Init took: (0.000998s)
+[2019.11.07-12.36.09:113][398]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/DamageDisplaySystem/Maps/SampleMap.SampleMap to /Game/DamageDisplaySystem/Maps/UEDPIE_0_SampleMap.SampleMap (0.017866s)
+[2019.11.07-12.36.09:178][398]LogUObjectHash: Compacting FUObjectHashTables data took   4.98ms
+[2019.11.07-12.36.09:183][398]LogInit: XAudio2 using 'Headphones (High Definition Audio Device)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2019.11.07-12.36.09:195][398]LogInit: FAudioDevice initialized.
+[2019.11.07-12.36.09:202][398]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.11.07-12.36.09:232][398]LogLoad: Game class is 'BP_GameMode_C'
+[2019.11.07-12.36.09:235][398]LogWorld: Bringing World /Game/DamageDisplaySystem/Maps/UEDPIE_0_SampleMap.SampleMap up for play (max tick rate 0) at 2019.11.07-18.06.09
+[2019.11.07-12.36.09:236][398]LogWorld: Bringing up level for play took: 0.002945
+[2019.11.07-12.36.09:249][398]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2019.11.07-12.36.09:252][398]PIE: Play in editor start time for /Game/DamageDisplaySystem/Maps/UEDPIE_0_SampleMap 0.977
+[2019.11.07-12.36.09:253][398]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/DamageDisplaySystem/Maps/SampleMap.SampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/DamageDisplaySystem/Maps/SampleMap.SampleMap:PersistentLevel.SampleMap' with GeneratedClass '/Game/DamageDisplaySystem/Maps/SampleMap.SampleMap_C' with ClassGeneratedBy '/Game/DamageDisplaySystem/Maps/SampleMap.SampleMap:PersistentLevel.SampleMap'
+[2019.11.07-12.36.11:032][509]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/DamageDisplaySystem/Maps/SampleMap.SampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/DamageDisplaySystem/Maps/SampleMap.SampleMap:PersistentLevel.SampleMap' with GeneratedClass '/Game/DamageDisplaySystem/Maps/SampleMap.SampleMap_C' with ClassGeneratedBy '/Game/DamageDisplaySystem/Maps/SampleMap.SampleMap:PersistentLevel.SampleMap'
+[2019.11.07-12.36.11:032][509]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.11.07-12.36.11:045][509]LogSlate: Window 'Damage Display System Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2019.11.07-12.36.11:077][509]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.11.07-12.36.11:077][509]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/DamageDisplaySystem/Maps/SampleMap.SampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/DamageDisplaySystem/Maps/SampleMap.SampleMap:PersistentLevel.SampleMap' with GeneratedClass '/Game/DamageDisplaySystem/Maps/SampleMap.SampleMap_C' with ClassGeneratedBy '/Game/DamageDisplaySystem/Maps/SampleMap.SampleMap:PersistentLevel.SampleMap'
+[2019.11.07-12.36.11:145][509]LogUObjectHash: Compacting FUObjectHashTables data took   4.32ms
+[2019.11.07-12.36.11:165][510]LogPlayLevel: Display: Destroying online subsystem :Context_19
+[2019.11.07-12.36.41:672][886]BlueprintLog: New page: Compile BPC_FloatingTextSpawner
+[2019.11.07-12.36.41:868][886]LogUObjectHash: Compacting FUObjectHashTables data took   3.98ms
+[2019.11.07-12.36.42:221][924]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2019.11.07-12.36.42:243][924]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/DamageDisplaySystem/Maps/SampleMap.SampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/DamageDisplaySystem/Maps/SampleMap.SampleMap:PersistentLevel.SampleMap' with GeneratedClass '/Game/DamageDisplaySystem/Maps/SampleMap.SampleMap_C' with ClassGeneratedBy '/Game/DamageDisplaySystem/Maps/SampleMap.SampleMap:PersistentLevel.SampleMap'
+[2019.11.07-12.36.42:243][924]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.11.07-12.36.42:243][924]PIE: New page: PIE session: SampleMap (Nov 7, 2019, 11:36:42 PM)
+[2019.11.07-12.36.42:243][924]LogPlayLevel: Creating play world package: /Game/DamageDisplaySystem/Maps/UEDPIE_0_SampleMap
+[2019.11.07-12.36.42:254][924]LogPlayLevel: PIE: StaticDuplicateObject took: (0.010868s)
+[2019.11.07-12.36.42:255][924]LogAIModule: Creating AISystem for world SampleMap
+[2019.11.07-12.36.42:255][924]LogPlayLevel: PIE: World Init took: (0.000846s)
+[2019.11.07-12.36.42:255][924]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/DamageDisplaySystem/Maps/SampleMap.SampleMap to /Game/DamageDisplaySystem/Maps/UEDPIE_0_SampleMap.SampleMap (0.011920s)
+[2019.11.07-12.36.42:306][924]LogUObjectHash: Compacting FUObjectHashTables data took   5.74ms
+[2019.11.07-12.36.42:313][924]LogInit: XAudio2 using 'Headphones (High Definition Audio Device)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2019.11.07-12.36.42:326][924]LogInit: FAudioDevice initialized.
+[2019.11.07-12.36.42:335][924]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.11.07-12.36.42:366][924]LogLoad: Game class is 'BP_GameMode_C'
+[2019.11.07-12.36.42:369][924]LogWorld: Bringing World /Game/DamageDisplaySystem/Maps/UEDPIE_0_SampleMap.SampleMap up for play (max tick rate 0) at 2019.11.07-18.06.42
+[2019.11.07-12.36.42:369][924]LogWorld: Bringing up level for play took: 0.002587
+[2019.11.07-12.36.42:381][924]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2019.11.07-12.36.42:383][924]PIE: Play in editor start time for /Game/DamageDisplaySystem/Maps/UEDPIE_0_SampleMap 0.108
+[2019.11.07-12.36.42:383][924]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/DamageDisplaySystem/Maps/SampleMap.SampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/DamageDisplaySystem/Maps/SampleMap.SampleMap:PersistentLevel.SampleMap' with GeneratedClass '/Game/DamageDisplaySystem/Maps/SampleMap.SampleMap_C' with ClassGeneratedBy '/Game/DamageDisplaySystem/Maps/SampleMap.SampleMap:PersistentLevel.SampleMap'
+[2019.11.07-12.36.46:123][161]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/DamageDisplaySystem/Maps/SampleMap.SampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/DamageDisplaySystem/Maps/SampleMap.SampleMap:PersistentLevel.SampleMap' with GeneratedClass '/Game/DamageDisplaySystem/Maps/SampleMap.SampleMap_C' with ClassGeneratedBy '/Game/DamageDisplaySystem/Maps/SampleMap.SampleMap:PersistentLevel.SampleMap'
+[2019.11.07-12.36.46:123][161]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.11.07-12.36.46:139][161]LogSlate: Window 'Damage Display System Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2019.11.07-12.36.46:171][161]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.11.07-12.36.46:172][161]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/DamageDisplaySystem/Maps/SampleMap.SampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/DamageDisplaySystem/Maps/SampleMap.SampleMap:PersistentLevel.SampleMap' with GeneratedClass '/Game/DamageDisplaySystem/Maps/SampleMap.SampleMap_C' with ClassGeneratedBy '/Game/DamageDisplaySystem/Maps/SampleMap.SampleMap:PersistentLevel.SampleMap'
+[2019.11.07-12.36.46:231][161]LogUObjectHash: Compacting FUObjectHashTables data took   3.07ms
+[2019.11.07-12.36.46:244][162]LogPlayLevel: Display: Destroying online subsystem :Context_20
+[2019.11.07-12.36.53:599][966]BlueprintLog: New page: Compile BP_FloatingText_Parent
+[2019.11.07-12.36.53:823][966]LogUObjectHash: Compacting FUObjectHashTables data took   3.67ms
+[2019.11.07-12.36.54:187][999]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2019.11.07-12.36.54:303][999]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/DamageDisplaySystem/Maps/SampleMap.SampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/DamageDisplaySystem/Maps/SampleMap.SampleMap:PersistentLevel.SampleMap' with GeneratedClass '/Game/DamageDisplaySystem/Maps/SampleMap.SampleMap_C' with ClassGeneratedBy '/Game/DamageDisplaySystem/Maps/SampleMap.SampleMap:PersistentLevel.SampleMap'
+[2019.11.07-12.36.54:303][999]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.11.07-12.36.54:303][999]PIE: New page: PIE session: SampleMap (Nov 7, 2019, 11:36:54 PM)
+[2019.11.07-12.36.54:304][999]LogPlayLevel: Creating play world package: /Game/DamageDisplaySystem/Maps/UEDPIE_0_SampleMap
+[2019.11.07-12.36.54:322][999]LogPlayLevel: PIE: StaticDuplicateObject took: (0.018440s)
+[2019.11.07-12.36.54:322][999]LogAIModule: Creating AISystem for world SampleMap
+[2019.11.07-12.36.54:324][999]LogPlayLevel: PIE: World Init took: (0.001488s)
+[2019.11.07-12.36.54:324][999]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/DamageDisplaySystem/Maps/SampleMap.SampleMap to /Game/DamageDisplaySystem/Maps/UEDPIE_0_SampleMap.SampleMap (0.020237s)
+[2019.11.07-12.36.54:391][999]LogUObjectHash: Compacting FUObjectHashTables data took   5.43ms
+[2019.11.07-12.36.54:396][999]LogInit: XAudio2 using 'Headphones (High Definition Audio Device)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2019.11.07-12.36.54:408][999]LogInit: FAudioDevice initialized.
+[2019.11.07-12.36.54:415][999]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.11.07-12.36.54:444][999]LogLoad: Game class is 'BP_GameMode_C'
+[2019.11.07-12.36.54:446][999]LogWorld: Bringing World /Game/DamageDisplaySystem/Maps/UEDPIE_0_SampleMap.SampleMap up for play (max tick rate 0) at 2019.11.07-18.06.54
+[2019.11.07-12.36.54:447][999]LogWorld: Bringing up level for play took: 0.002260
+[2019.11.07-12.36.54:459][999]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2019.11.07-12.36.54:461][999]PIE: Play in editor start time for /Game/DamageDisplaySystem/Maps/UEDPIE_0_SampleMap 0.186
+[2019.11.07-12.36.54:462][999]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/DamageDisplaySystem/Maps/SampleMap.SampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/DamageDisplaySystem/Maps/SampleMap.SampleMap:PersistentLevel.SampleMap' with GeneratedClass '/Game/DamageDisplaySystem/Maps/SampleMap.SampleMap_C' with ClassGeneratedBy '/Game/DamageDisplaySystem/Maps/SampleMap.SampleMap:PersistentLevel.SampleMap'
+[2019.11.07-12.37.00:244][379]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/DamageDisplaySystem/Maps/SampleMap.SampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/DamageDisplaySystem/Maps/SampleMap.SampleMap:PersistentLevel.SampleMap' with GeneratedClass '/Game/DamageDisplaySystem/Maps/SampleMap.SampleMap_C' with ClassGeneratedBy '/Game/DamageDisplaySystem/Maps/SampleMap.SampleMap:PersistentLevel.SampleMap'
+[2019.11.07-12.37.00:244][379]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.11.07-12.37.00:255][379]LogSlate: Window 'Damage Display System Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2019.11.07-12.37.00:286][379]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.11.07-12.37.00:287][379]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/DamageDisplaySystem/Maps/SampleMap.SampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/DamageDisplaySystem/Maps/SampleMap.SampleMap:PersistentLevel.SampleMap' with GeneratedClass '/Game/DamageDisplaySystem/Maps/SampleMap.SampleMap_C' with ClassGeneratedBy '/Game/DamageDisplaySystem/Maps/SampleMap.SampleMap:PersistentLevel.SampleMap'
+[2019.11.07-12.37.00:344][379]LogUObjectHash: Compacting FUObjectHashTables data took   3.37ms
+[2019.11.07-12.37.00:357][380]LogPlayLevel: Display: Destroying online subsystem :Context_21
+[2019.11.07-12.37.33:132][147]BlueprintLog: New page: Compile BP_FloatingText_Parent
+[2019.11.07-12.37.33:389][147]LogUObjectHash: Compacting FUObjectHashTables data took   4.27ms
+[2019.11.07-12.37.33:475][147]LogSavePackage: Moving '../../../../../../Users/Rohit/Documents/GitHubProjects/UnrealEngine--DamageDisplaySystem/Saved/BP_FloatingText_Parent5C46493C4A3DDC9FBD893E83106BBD15.tmp' to '../../../../../../Users/Rohit/Documents/GitHubProjects/UnrealEngine--DamageDisplaySystem/Content/DamageDisplaySystem/Blueprints/Core/BP_FloatingText_Parent.uasset'
+[2019.11.07-12.37.40:389][939]BlueprintLog: New page: Compile BP_FloatingText_Parent
+[2019.11.07-12.37.40:619][939]LogUObjectHash: Compacting FUObjectHashTables data took   4.78ms
+[2019.11.07-12.37.40:710][939]LogSavePackage: Moving '../../../../../../Users/Rohit/Documents/GitHubProjects/UnrealEngine--DamageDisplaySystem/Saved/BP_FloatingText_Parent310166B7419B0193838D6FA97BA67076.tmp' to '../../../../../../Users/Rohit/Documents/GitHubProjects/UnrealEngine--DamageDisplaySystem/Content/DamageDisplaySystem/Blueprints/Core/BP_FloatingText_Parent.uasset'
+[2019.11.07-12.37.46:101][497]BlueprintLog: New page: Compile BP_FloatingText_Parent
+[2019.11.07-12.37.46:362][497]LogUObjectHash: Compacting FUObjectHashTables data took   4.09ms
+[2019.11.07-12.37.46:436][497]LogSavePackage: Moving '../../../../../../Users/Rohit/Documents/GitHubProjects/UnrealEngine--DamageDisplaySystem/Saved/BP_FloatingText_ParentC550C5484C7A606925EEA6B02377AD10.tmp' to '../../../../../../Users/Rohit/Documents/GitHubProjects/UnrealEngine--DamageDisplaySystem/Content/DamageDisplaySystem/Blueprints/Core/BP_FloatingText_Parent.uasset'
+[2019.11.07-12.37.48:835][746]BlueprintLog: New page: Compile BP_FloatingText_Status
+[2019.11.07-12.37.49:062][746]LogUObjectHash: Compacting FUObjectHashTables data took   5.67ms
+[2019.11.07-12.37.49:259][752]LogSavePackage: Moving '../../../../../../Users/Rohit/Documents/GitHubProjects/UnrealEngine--DamageDisplaySystem/Saved/BP_FloatingText_Status910523A34AD4B311EE260A833C801F63.tmp' to '../../../../../../Users/Rohit/Documents/GitHubProjects/UnrealEngine--DamageDisplaySystem/Content/DamageDisplaySystem/Blueprints/Core/BP_FloatingText_Status.uasset'
+[2019.11.07-12.37.50:825][910]BlueprintLog: New page: Compile BP_FloatingText_Status
+[2019.11.07-12.37.51:040][910]LogUObjectHash: Compacting FUObjectHashTables data took   4.42ms
+[2019.11.07-12.37.51:163][911]LogSavePackage: Moving '../../../../../../Users/Rohit/Documents/GitHubProjects/UnrealEngine--DamageDisplaySystem/Saved/BP_FloatingText_Status538F2AFB4F7A3BBD9DC5A0A2A537237E.tmp' to '../../../../../../Users/Rohit/Documents/GitHubProjects/UnrealEngine--DamageDisplaySystem/Content/DamageDisplaySystem/Blueprints/Core/BP_FloatingText_Status.uasset'
+[2019.11.07-12.38.11:324][114]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2019.11.07-12.38.11:344][114]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/DamageDisplaySystem/Maps/SampleMap.SampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/DamageDisplaySystem/Maps/SampleMap.SampleMap:PersistentLevel.SampleMap' with GeneratedClass '/Game/DamageDisplaySystem/Maps/SampleMap.SampleMap_C' with ClassGeneratedBy '/Game/DamageDisplaySystem/Maps/SampleMap.SampleMap:PersistentLevel.SampleMap'
+[2019.11.07-12.38.11:345][114]BlueprintLog: New page: Pre-Play auto-recompile
+[2019.11.07-12.38.11:352][114]LogPlayLevel: [PlayLevel] Compiling BP_FloatingText_Parent before play...
+[2019.11.07-12.38.11:352][114]LogPlayLevel: [PlayLevel]   Compiling BP_FloatingText_Status as a dependent...
+[2019.11.07-12.38.11:584][114]LogUObjectHash: Compacting FUObjectHashTables data took   4.02ms
+[2019.11.07-12.38.11:584][114]LogPlayLevel: PlayLevel: Blueprint regeneration took 240 ms (2 blueprints)
+[2019.11.07-12.38.11:584][114]PIE: New page: PIE session: SampleMap (Nov 7, 2019, 11:38:11 PM)
+[2019.11.07-12.38.11:584][114]LogPlayLevel: Creating play world package: /Game/DamageDisplaySystem/Maps/UEDPIE_0_SampleMap
+[2019.11.07-12.38.11:594][114]LogPlayLevel: PIE: StaticDuplicateObject took: (0.010088s)
+[2019.11.07-12.38.11:595][114]LogAIModule: Creating AISystem for world SampleMap
+[2019.11.07-12.38.11:595][114]LogPlayLevel: PIE: World Init took: (0.000965s)
+[2019.11.07-12.38.11:596][114]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/DamageDisplaySystem/Maps/SampleMap.SampleMap to /Game/DamageDisplaySystem/Maps/UEDPIE_0_SampleMap.SampleMap (0.011225s)
+[2019.11.07-12.38.11:641][114]LogUObjectHash: Compacting FUObjectHashTables data took   2.95ms
+[2019.11.07-12.38.11:647][114]LogInit: XAudio2 using 'Headphones (High Definition Audio Device)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2019.11.07-12.38.11:660][114]LogInit: FAudioDevice initialized.
+[2019.11.07-12.38.11:669][114]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.11.07-12.38.11:698][114]LogLoad: Game class is 'BP_GameMode_C'
+[2019.11.07-12.38.11:701][114]LogWorld: Bringing World /Game/DamageDisplaySystem/Maps/UEDPIE_0_SampleMap.SampleMap up for play (max tick rate 0) at 2019.11.07-18.08.11
+[2019.11.07-12.38.11:702][114]LogWorld: Bringing up level for play took: 0.003155
+[2019.11.07-12.38.11:714][114]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2019.11.07-12.38.11:716][114]PIE: Play in editor start time for /Game/DamageDisplaySystem/Maps/UEDPIE_0_SampleMap -0.56
+[2019.11.07-12.38.11:716][114]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/DamageDisplaySystem/Maps/SampleMap.SampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/DamageDisplaySystem/Maps/SampleMap.SampleMap:PersistentLevel.SampleMap' with GeneratedClass '/Game/DamageDisplaySystem/Maps/SampleMap.SampleMap_C' with ClassGeneratedBy '/Game/DamageDisplaySystem/Maps/SampleMap.SampleMap:PersistentLevel.SampleMap'
+[2019.11.07-12.38.21:937][808]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/DamageDisplaySystem/Maps/SampleMap.SampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/DamageDisplaySystem/Maps/SampleMap.SampleMap:PersistentLevel.SampleMap' with GeneratedClass '/Game/DamageDisplaySystem/Maps/SampleMap.SampleMap_C' with ClassGeneratedBy '/Game/DamageDisplaySystem/Maps/SampleMap.SampleMap:PersistentLevel.SampleMap'
+[2019.11.07-12.38.21:938][808]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.11.07-12.38.21:974][808]LogSlate: Window 'Damage Display System Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2019.11.07-12.38.22:012][808]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.11.07-12.38.22:012][808]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/DamageDisplaySystem/Maps/SampleMap.SampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/DamageDisplaySystem/Maps/SampleMap.SampleMap:PersistentLevel.SampleMap' with GeneratedClass '/Game/DamageDisplaySystem/Maps/SampleMap.SampleMap_C' with ClassGeneratedBy '/Game/DamageDisplaySystem/Maps/SampleMap.SampleMap:PersistentLevel.SampleMap'
+[2019.11.07-12.38.22:084][808]LogUObjectHash: Compacting FUObjectHashTables data took   2.65ms
+[2019.11.07-12.38.22:095][809]LogPlayLevel: Display: Destroying online subsystem :Context_22
+[2019.11.07-12.38.25:436][ 51]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/DamageDisplaySystem/Blueprints/Projectiles/BP_BulletProjectile.BP_BulletProjectile
+[2019.11.07-12.38.39:815][561]LogSlate: Took 0.007674 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensedItalic.ttf' (160K)
+[2019.11.07-12.38.41:686][640]LogSlate: Window 'Change Variable Type' being destroyed
+[2019.11.07-12.38.48:147][290]Cmd: TRANSACTION UNDO
+[2019.11.07-12.38.48:147][290]LogEditorTransaction: Undo Break Node Links
+[2019.11.07-12.38.51:372][571]BlueprintLog: New page: Compile BPC_FloatingTextSpawner
+[2019.11.07-12.38.51:563][571]LogUObjectHash: Compacting FUObjectHashTables data took   3.79ms
+[2019.11.07-12.38.51:678][577]LogSavePackage: Moving '../../../../../../Users/Rohit/Documents/GitHubProjects/UnrealEngine--DamageDisplaySystem/Saved/BPC_FloatingTextSpawnerF93F0E274CF3E7EB8DFC93A611B59C6E.tmp' to '../../../../../../Users/Rohit/Documents/GitHubProjects/UnrealEngine--DamageDisplaySystem/Content/DamageDisplaySystem/Blueprints/Core/BPC_FloatingTextSpawner.uasset'
+[2019.11.07-12.38.54:239][839]BlueprintLog: New page: Compile BP_FloatingText_Status
+[2019.11.07-12.38.54:247][839]LogBlueprint: Error: [Compiler BP_FloatingText_Status] In use pin  Damage Text  no longer exists on node  Get . Please refresh node or break links to remove pin.
+[2019.11.07-12.38.54:250][839]LogClass: Warning: Type mismatch in DamageText of BP_FloatingText_Status_C - Previous (TextProperty) Current(IntProperty) for package:  FObjectReader
+[2019.11.07-12.38.54:448][839]LogUObjectHash: Compacting FUObjectHashTables data took   4.70ms
+[2019.11.07-12.38.54:462][839]LogBlueprint: Warning: [Compiler BP_FloatingText_Status] [0708.36] Compile of BP_FloatingText_Status failed. 1 Fatal Issue(s) 0 Warning(s) [in 222 ms] (/Game/DamageDisplaySystem/Blueprints/Core/BP_FloatingText_Status.BP_FloatingText_Status)
+[2019.11.07-12.38.54:587][840]LogSavePackage: Moving '../../../../../../Users/Rohit/Documents/GitHubProjects/UnrealEngine--DamageDisplaySystem/Saved/BP_FloatingText_StatusAF30AF234D0269B78BA25C8120EACFA4.tmp' to '../../../../../../Users/Rohit/Documents/GitHubProjects/UnrealEngine--DamageDisplaySystem/Content/DamageDisplaySystem/Blueprints/Core/BP_FloatingText_Status.uasset'
+[2019.11.07-12.39.03:552][715]LogAssetEditorManager: Opening Asset editor for WidgetBlueprint /Game/DamageDisplaySystem/UI/Widget_ScalableText.Widget_ScalableText
+[2019.11.07-12.39.03:971][715]LogBlueprintActionDatabase: Requesting refresh due to module change: SequencerWidgets (loaded)
+[2019.11.07-12.39.16:209][ 75]BlueprintLog: New page: Compile BP_FloatingText_Status
+[2019.11.07-12.39.16:511][ 75]LogUObjectHash: Compacting FUObjectHashTables data took   8.42ms
+[2019.11.07-12.39.16:600][ 75]LogSavePackage: Moving '../../../../../../Users/Rohit/Documents/GitHubProjects/UnrealEngine--DamageDisplaySystem/Saved/BP_FloatingText_StatusFD3A4DD9443F5E92DF116C856353CACD.tmp' to '../../../../../../Users/Rohit/Documents/GitHubProjects/UnrealEngine--DamageDisplaySystem/Content/DamageDisplaySystem/Blueprints/Core/BP_FloatingText_Status.uasset'
+[2019.11.07-12.39.18:001][193]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2019.11.07-12.39.18:039][193]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/DamageDisplaySystem/Maps/SampleMap.SampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/DamageDisplaySystem/Maps/SampleMap.SampleMap:PersistentLevel.SampleMap' with GeneratedClass '/Game/DamageDisplaySystem/Maps/SampleMap.SampleMap_C' with ClassGeneratedBy '/Game/DamageDisplaySystem/Maps/SampleMap.SampleMap:PersistentLevel.SampleMap'
+[2019.11.07-12.39.18:039][193]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.11.07-12.39.18:039][193]PIE: New page: PIE session: SampleMap (Nov 7, 2019, 11:39:18 PM)
+[2019.11.07-12.39.18:040][193]LogPlayLevel: Creating play world package: /Game/DamageDisplaySystem/Maps/UEDPIE_0_SampleMap
+[2019.11.07-12.39.18:055][193]LogPlayLevel: PIE: StaticDuplicateObject took: (0.014972s)
+[2019.11.07-12.39.18:055][193]LogAIModule: Creating AISystem for world SampleMap
+[2019.11.07-12.39.18:056][193]LogPlayLevel: PIE: World Init took: (0.000842s)
+[2019.11.07-12.39.18:056][193]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/DamageDisplaySystem/Maps/SampleMap.SampleMap to /Game/DamageDisplaySystem/Maps/UEDPIE_0_SampleMap.SampleMap (0.016058s)
+[2019.11.07-12.39.18:219][193]LogUObjectHash: Compacting FUObjectHashTables data took  28.04ms
+[2019.11.07-12.39.18:240][193]LogInit: XAudio2 using 'Headphones (High Definition Audio Device)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2019.11.07-12.39.18:269][193]LogInit: FAudioDevice initialized.
+[2019.11.07-12.39.18:281][193]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.11.07-12.39.18:313][193]LogLoad: Game class is 'BP_GameMode_C'
+[2019.11.07-12.39.18:317][193]LogWorld: Bringing World /Game/DamageDisplaySystem/Maps/UEDPIE_0_SampleMap.SampleMap up for play (max tick rate 0) at 2019.11.07-18.09.18
+[2019.11.07-12.39.18:318][193]LogWorld: Bringing up level for play took: 0.004202
+[2019.11.07-12.39.18:331][193]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2019.11.07-12.39.18:334][193]PIE: Play in editor start time for /Game/DamageDisplaySystem/Maps/UEDPIE_0_SampleMap 0.059
+[2019.11.07-12.39.18:334][193]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/DamageDisplaySystem/Maps/SampleMap.SampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/DamageDisplaySystem/Maps/SampleMap.SampleMap:PersistentLevel.SampleMap' with GeneratedClass '/Game/DamageDisplaySystem/Maps/SampleMap.SampleMap_C' with ClassGeneratedBy '/Game/DamageDisplaySystem/Maps/SampleMap.SampleMap:PersistentLevel.SampleMap'
+[2019.11.07-12.39.20:518][347]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/DamageDisplaySystem/Maps/SampleMap.SampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/DamageDisplaySystem/Maps/SampleMap.SampleMap:PersistentLevel.SampleMap' with GeneratedClass '/Game/DamageDisplaySystem/Maps/SampleMap.SampleMap_C' with ClassGeneratedBy '/Game/DamageDisplaySystem/Maps/SampleMap.SampleMap:PersistentLevel.SampleMap'
+[2019.11.07-12.39.20:519][347]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.11.07-12.39.20:553][347]LogSlate: Window 'Damage Display System Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2019.11.07-12.39.20:592][347]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.11.07-12.39.20:592][347]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/DamageDisplaySystem/Maps/SampleMap.SampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/DamageDisplaySystem/Maps/SampleMap.SampleMap:PersistentLevel.SampleMap' with GeneratedClass '/Game/DamageDisplaySystem/Maps/SampleMap.SampleMap_C' with ClassGeneratedBy '/Game/DamageDisplaySystem/Maps/SampleMap.SampleMap:PersistentLevel.SampleMap'
+[2019.11.07-12.39.20:665][347]LogUObjectHash: Compacting FUObjectHashTables data took   3.82ms
+[2019.11.07-12.39.20:676][348]LogPlayLevel: Display: Destroying online subsystem :Context_26
+[2019.11.07-12.39.28:173][196]BlueprintLog: New page: Compile BPC_FloatingTextSpawner
+[2019.11.07-12.39.28:477][196]LogUObjectHash: Compacting FUObjectHashTables data took   4.39ms
+[2019.11.07-12.39.28:761][223]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2019.11.07-12.39.28:873][223]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/DamageDisplaySystem/Maps/SampleMap.SampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/DamageDisplaySystem/Maps/SampleMap.SampleMap:PersistentLevel.SampleMap' with GeneratedClass '/Game/DamageDisplaySystem/Maps/SampleMap.SampleMap_C' with ClassGeneratedBy '/Game/DamageDisplaySystem/Maps/SampleMap.SampleMap:PersistentLevel.SampleMap'
+[2019.11.07-12.39.28:873][223]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.11.07-12.39.28:873][223]PIE: New page: PIE session: SampleMap (Nov 7, 2019, 11:39:28 PM)
+[2019.11.07-12.39.28:873][223]LogPlayLevel: Creating play world package: /Game/DamageDisplaySystem/Maps/UEDPIE_0_SampleMap
+[2019.11.07-12.39.28:890][223]LogPlayLevel: PIE: StaticDuplicateObject took: (0.016474s)
+[2019.11.07-12.39.28:891][223]LogAIModule: Creating AISystem for world SampleMap
+[2019.11.07-12.39.28:891][223]LogPlayLevel: PIE: World Init took: (0.001315s)
+[2019.11.07-12.39.28:891][223]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/DamageDisplaySystem/Maps/SampleMap.SampleMap to /Game/DamageDisplaySystem/Maps/UEDPIE_0_SampleMap.SampleMap (0.018135s)
+[2019.11.07-12.39.28:962][223]LogUObjectHash: Compacting FUObjectHashTables data took   5.64ms
+[2019.11.07-12.39.28:967][223]LogInit: XAudio2 using 'Headphones (High Definition Audio Device)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2019.11.07-12.39.28:978][223]LogInit: FAudioDevice initialized.
+[2019.11.07-12.39.28:985][223]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.11.07-12.39.29:013][223]LogLoad: Game class is 'BP_GameMode_C'
+[2019.11.07-12.39.29:015][223]LogWorld: Bringing World /Game/DamageDisplaySystem/Maps/UEDPIE_0_SampleMap.SampleMap up for play (max tick rate 0) at 2019.11.07-18.09.29
+[2019.11.07-12.39.29:016][223]LogWorld: Bringing up level for play took: 0.002156
+[2019.11.07-12.39.29:028][223]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2019.11.07-12.39.29:029][223]PIE: Play in editor start time for /Game/DamageDisplaySystem/Maps/UEDPIE_0_SampleMap 0.754
+[2019.11.07-12.39.29:030][223]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/DamageDisplaySystem/Maps/SampleMap.SampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/DamageDisplaySystem/Maps/SampleMap.SampleMap:PersistentLevel.SampleMap' with GeneratedClass '/Game/DamageDisplaySystem/Maps/SampleMap.SampleMap_C' with ClassGeneratedBy '/Game/DamageDisplaySystem/Maps/SampleMap.SampleMap:PersistentLevel.SampleMap'
+[2019.11.07-12.39.31:170][419]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/DamageDisplaySystem/Maps/SampleMap.SampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/DamageDisplaySystem/Maps/SampleMap.SampleMap:PersistentLevel.SampleMap' with GeneratedClass '/Game/DamageDisplaySystem/Maps/SampleMap.SampleMap_C' with ClassGeneratedBy '/Game/DamageDisplaySystem/Maps/SampleMap.SampleMap:PersistentLevel.SampleMap'
+[2019.11.07-12.39.31:171][419]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.11.07-12.39.31:189][419]LogSlate: Window 'Damage Display System Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2019.11.07-12.39.31:222][419]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.11.07-12.39.31:223][419]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/DamageDisplaySystem/Maps/SampleMap.SampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/DamageDisplaySystem/Maps/SampleMap.SampleMap:PersistentLevel.SampleMap' with GeneratedClass '/Game/DamageDisplaySystem/Maps/SampleMap.SampleMap_C' with ClassGeneratedBy '/Game/DamageDisplaySystem/Maps/SampleMap.SampleMap:PersistentLevel.SampleMap'
+[2019.11.07-12.39.31:290][419]LogUObjectHash: Compacting FUObjectHashTables data took   3.65ms
+[2019.11.07-12.39.31:310][420]LogPlayLevel: Display: Destroying online subsystem :Context_27
+[2019.11.07-12.39.35:873][917]BlueprintLog: New page: Compile BP_FloatingText_Parent
+[2019.11.07-12.39.36:270][917]LogUObjectHash: Compacting FUObjectHashTables data took   3.89ms
+[2019.11.07-12.39.50:692][344]LogSlate: Window 'Delete Variable' being destroyed
+[2019.11.07-12.40.17:159][253]BlueprintLog: New page: Compile BP_FloatingText_Parent
+[2019.11.07-12.40.17:430][253]LogUObjectHash: Compacting FUObjectHashTables data took   5.61ms
+[2019.11.07-12.40.28:871][496]BlueprintLog: New page: Compile BP_FloatingText_Parent
+[2019.11.07-12.40.29:123][496]LogUObjectHash: Compacting FUObjectHashTables data took   5.94ms
+[2019.11.07-12.40.29:555][538]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2019.11.07-12.40.29:584][538]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/DamageDisplaySystem/Maps/SampleMap.SampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/DamageDisplaySystem/Maps/SampleMap.SampleMap:PersistentLevel.SampleMap' with GeneratedClass '/Game/DamageDisplaySystem/Maps/SampleMap.SampleMap_C' with ClassGeneratedBy '/Game/DamageDisplaySystem/Maps/SampleMap.SampleMap:PersistentLevel.SampleMap'
+[2019.11.07-12.40.29:584][538]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.11.07-12.40.29:584][538]PIE: New page: PIE session: SampleMap (Nov 7, 2019, 11:40:29 PM)
+[2019.11.07-12.40.29:585][538]LogPlayLevel: Creating play world package: /Game/DamageDisplaySystem/Maps/UEDPIE_0_SampleMap
+[2019.11.07-12.40.29:595][538]LogPlayLevel: PIE: StaticDuplicateObject took: (0.010454s)
+[2019.11.07-12.40.29:596][538]LogAIModule: Creating AISystem for world SampleMap
+[2019.11.07-12.40.29:596][538]LogPlayLevel: PIE: World Init took: (0.000826s)
+[2019.11.07-12.40.29:596][538]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/DamageDisplaySystem/Maps/SampleMap.SampleMap to /Game/DamageDisplaySystem/Maps/UEDPIE_0_SampleMap.SampleMap (0.011451s)
+[2019.11.07-12.40.29:673][538]LogUObjectHash: Compacting FUObjectHashTables data took  13.49ms
+[2019.11.07-12.40.29:752][538]LogInit: XAudio2 using 'Headphones (High Definition Audio Device)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2019.11.07-12.40.29:801][538]LogInit: FAudioDevice initialized.
+[2019.11.07-12.40.29:819][538]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.11.07-12.40.29:858][538]LogLoad: Game class is 'BP_GameMode_C'
+[2019.11.07-12.40.29:862][538]LogWorld: Bringing World /Game/DamageDisplaySystem/Maps/UEDPIE_0_SampleMap.SampleMap up for play (max tick rate 0) at 2019.11.07-18.10.29
+[2019.11.07-12.40.29:863][538]LogWorld: Bringing up level for play took: 0.003428
+[2019.11.07-12.40.29:875][538]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2019.11.07-12.40.29:878][538]PIE: Play in editor start time for /Game/DamageDisplaySystem/Maps/UEDPIE_0_SampleMap -0.397
+[2019.11.07-12.40.29:878][538]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/DamageDisplaySystem/Maps/SampleMap.SampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/DamageDisplaySystem/Maps/SampleMap.SampleMap:PersistentLevel.SampleMap' with GeneratedClass '/Game/DamageDisplaySystem/Maps/SampleMap.SampleMap_C' with ClassGeneratedBy '/Game/DamageDisplaySystem/Maps/SampleMap.SampleMap:PersistentLevel.SampleMap'
+[2019.11.07-12.40.36:357][918]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/DamageDisplaySystem/Maps/SampleMap.SampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/DamageDisplaySystem/Maps/SampleMap.SampleMap:PersistentLevel.SampleMap' with GeneratedClass '/Game/DamageDisplaySystem/Maps/SampleMap.SampleMap_C' with ClassGeneratedBy '/Game/DamageDisplaySystem/Maps/SampleMap.SampleMap:PersistentLevel.SampleMap'
+[2019.11.07-12.40.36:357][918]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.11.07-12.40.36:372][918]LogSlate: Window 'Damage Display System Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2019.11.07-12.40.36:413][918]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.11.07-12.40.36:413][918]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/DamageDisplaySystem/Maps/SampleMap.SampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/DamageDisplaySystem/Maps/SampleMap.SampleMap:PersistentLevel.SampleMap' with GeneratedClass '/Game/DamageDisplaySystem/Maps/SampleMap.SampleMap_C' with ClassGeneratedBy '/Game/DamageDisplaySystem/Maps/SampleMap.SampleMap:PersistentLevel.SampleMap'
+[2019.11.07-12.40.36:506][918]LogUObjectHash: Compacting FUObjectHashTables data took   4.80ms
+[2019.11.07-12.40.36:608][919]LogPlayLevel: Display: Destroying online subsystem :Context_28
+[2019.11.07-12.40.44:025][648]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2019.11.07-12.40.44:063][648]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/DamageDisplaySystem/Maps/SampleMap.SampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/DamageDisplaySystem/Maps/SampleMap.SampleMap:PersistentLevel.SampleMap' with GeneratedClass '/Game/DamageDisplaySystem/Maps/SampleMap.SampleMap_C' with ClassGeneratedBy '/Game/DamageDisplaySystem/Maps/SampleMap.SampleMap:PersistentLevel.SampleMap'
+[2019.11.07-12.40.44:064][648]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.11.07-12.40.44:064][648]PIE: New page: PIE session: SampleMap (Nov 7, 2019, 11:40:44 PM)
+[2019.11.07-12.40.44:064][648]LogPlayLevel: Creating play world package: /Game/DamageDisplaySystem/Maps/UEDPIE_0_SampleMap
+[2019.11.07-12.40.44:076][648]LogPlayLevel: PIE: StaticDuplicateObject took: (0.011607s)
+[2019.11.07-12.40.44:076][648]LogAIModule: Creating AISystem for world SampleMap
+[2019.11.07-12.40.44:076][648]LogPlayLevel: PIE: World Init took: (0.000775s)
+[2019.11.07-12.40.44:077][648]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/DamageDisplaySystem/Maps/SampleMap.SampleMap to /Game/DamageDisplaySystem/Maps/UEDPIE_0_SampleMap.SampleMap (0.012739s)
+[2019.11.07-12.40.44:130][648]LogUObjectHash: Compacting FUObjectHashTables data took   3.39ms
+[2019.11.07-12.40.44:135][648]LogInit: XAudio2 using 'Headphones (High Definition Audio Device)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2019.11.07-12.40.44:146][648]LogInit: FAudioDevice initialized.
+[2019.11.07-12.40.44:153][648]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.11.07-12.40.44:186][648]LogLoad: Game class is 'BP_GameMode_C'
+[2019.11.07-12.40.44:190][648]LogWorld: Bringing World /Game/DamageDisplaySystem/Maps/UEDPIE_0_SampleMap.SampleMap up for play (max tick rate 0) at 2019.11.07-18.10.44
+[2019.11.07-12.40.44:190][648]LogWorld: Bringing up level for play took: 0.003181
+[2019.11.07-12.40.44:203][648]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2019.11.07-12.40.44:206][648]PIE: Play in editor start time for /Game/DamageDisplaySystem/Maps/UEDPIE_0_SampleMap -0.069
+[2019.11.07-12.40.44:206][648]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/DamageDisplaySystem/Maps/SampleMap.SampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/DamageDisplaySystem/Maps/SampleMap.SampleMap:PersistentLevel.SampleMap' with GeneratedClass '/Game/DamageDisplaySystem/Maps/SampleMap.SampleMap_C' with ClassGeneratedBy '/Game/DamageDisplaySystem/Maps/SampleMap.SampleMap:PersistentLevel.SampleMap'
+[2019.11.07-12.40.48:926][924]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/DamageDisplaySystem/Maps/SampleMap.SampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/DamageDisplaySystem/Maps/SampleMap.SampleMap:PersistentLevel.SampleMap' with GeneratedClass '/Game/DamageDisplaySystem/Maps/SampleMap.SampleMap_C' with ClassGeneratedBy '/Game/DamageDisplaySystem/Maps/SampleMap.SampleMap:PersistentLevel.SampleMap'
+[2019.11.07-12.40.48:931][924]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.11.07-12.40.49:004][924]LogSlate: Window 'Damage Display System Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2019.11.07-12.40.49:062][924]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.11.07-12.40.49:062][924]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/DamageDisplaySystem/Maps/SampleMap.SampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/DamageDisplaySystem/Maps/SampleMap.SampleMap:PersistentLevel.SampleMap' with GeneratedClass '/Game/DamageDisplaySystem/Maps/SampleMap.SampleMap_C' with ClassGeneratedBy '/Game/DamageDisplaySystem/Maps/SampleMap.SampleMap:PersistentLevel.SampleMap'
+[2019.11.07-12.40.49:146][924]LogUObjectHash: Compacting FUObjectHashTables data took   3.31ms
+[2019.11.07-12.40.49:172][925]LogPlayLevel: Display: Destroying online subsystem :Context_29
+[2019.11.07-12.40.52:834][321]BlueprintLog: New page: Compile BP_FloatingText_Parent
+[2019.11.07-12.40.53:209][321]LogUObjectHash: Compacting FUObjectHashTables data took   4.59ms
+[2019.11.07-12.40.53:761][368]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2019.11.07-12.40.53:817][368]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/DamageDisplaySystem/Maps/SampleMap.SampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/DamageDisplaySystem/Maps/SampleMap.SampleMap:PersistentLevel.SampleMap' with GeneratedClass '/Game/DamageDisplaySystem/Maps/SampleMap.SampleMap_C' with ClassGeneratedBy '/Game/DamageDisplaySystem/Maps/SampleMap.SampleMap:PersistentLevel.SampleMap'
+[2019.11.07-12.40.53:817][368]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.11.07-12.40.53:817][368]PIE: New page: PIE session: SampleMap (Nov 7, 2019, 11:40:53 PM)
+[2019.11.07-12.40.53:817][368]LogPlayLevel: Creating play world package: /Game/DamageDisplaySystem/Maps/UEDPIE_0_SampleMap
+[2019.11.07-12.40.53:836][368]LogPlayLevel: PIE: StaticDuplicateObject took: (0.018755s)
+[2019.11.07-12.40.53:837][368]LogAIModule: Creating AISystem for world SampleMap
+[2019.11.07-12.40.53:838][368]LogPlayLevel: PIE: World Init took: (0.001559s)
+[2019.11.07-12.40.53:838][368]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/DamageDisplaySystem/Maps/SampleMap.SampleMap to /Game/DamageDisplaySystem/Maps/UEDPIE_0_SampleMap.SampleMap (0.020615s)
+[2019.11.07-12.40.54:068][368]LogUObjectHash: Compacting FUObjectHashTables data took  13.53ms
+[2019.11.07-12.40.54:080][368]LogInit: XAudio2 using 'Headphones (High Definition Audio Device)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2019.11.07-12.40.54:105][368]LogInit: FAudioDevice initialized.
+[2019.11.07-12.40.54:116][368]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.11.07-12.40.54:146][368]LogLoad: Game class is 'BP_GameMode_C'
+[2019.11.07-12.40.54:149][368]LogWorld: Bringing World /Game/DamageDisplaySystem/Maps/UEDPIE_0_SampleMap.SampleMap up for play (max tick rate 0) at 2019.11.07-18.10.54
+[2019.11.07-12.40.54:150][368]LogWorld: Bringing up level for play took: 0.002825
+[2019.11.07-12.40.54:162][368]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2019.11.07-12.40.54:165][368]PIE: Play in editor start time for /Game/DamageDisplaySystem/Maps/UEDPIE_0_SampleMap -0.11
+[2019.11.07-12.40.54:165][368]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/DamageDisplaySystem/Maps/SampleMap.SampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/DamageDisplaySystem/Maps/SampleMap.SampleMap:PersistentLevel.SampleMap' with GeneratedClass '/Game/DamageDisplaySystem/Maps/SampleMap.SampleMap_C' with ClassGeneratedBy '/Game/DamageDisplaySystem/Maps/SampleMap.SampleMap:PersistentLevel.SampleMap'
+[2019.11.07-12.41.19:749][137]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/DamageDisplaySystem/Maps/SampleMap.SampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/DamageDisplaySystem/Maps/SampleMap.SampleMap:PersistentLevel.SampleMap' with GeneratedClass '/Game/DamageDisplaySystem/Maps/SampleMap.SampleMap_C' with ClassGeneratedBy '/Game/DamageDisplaySystem/Maps/SampleMap.SampleMap:PersistentLevel.SampleMap'
+[2019.11.07-12.41.19:752][137]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.11.07-12.41.19:803][137]LogSlate: Window 'Damage Display System Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2019.11.07-12.41.19:846][137]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.11.07-12.41.19:846][137]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/DamageDisplaySystem/Maps/SampleMap.SampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/DamageDisplaySystem/Maps/SampleMap.SampleMap:PersistentLevel.SampleMap' with GeneratedClass '/Game/DamageDisplaySystem/Maps/SampleMap.SampleMap_C' with ClassGeneratedBy '/Game/DamageDisplaySystem/Maps/SampleMap.SampleMap:PersistentLevel.SampleMap'
+[2019.11.07-12.41.19:923][137]LogUObjectHash: Compacting FUObjectHashTables data took   3.73ms
+[2019.11.07-12.41.19:947][138]LogPlayLevel: Display: Destroying online subsystem :Context_30
+[2019.11.07-12.41.26:986][951]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2019.11.07-12.41.27:018][951]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/DamageDisplaySystem/Maps/SampleMap.SampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/DamageDisplaySystem/Maps/SampleMap.SampleMap:PersistentLevel.SampleMap' with GeneratedClass '/Game/DamageDisplaySystem/Maps/SampleMap.SampleMap_C' with ClassGeneratedBy '/Game/DamageDisplaySystem/Maps/SampleMap.SampleMap:PersistentLevel.SampleMap'
+[2019.11.07-12.41.27:019][951]BlueprintLog: New page: Pre-Play auto-recompile
+[2019.11.07-12.41.27:023][951]LogPlayLevel: [PlayLevel] Compiling BP_FloatingText_Parent before play...
+[2019.11.07-12.41.27:023][951]LogPlayLevel: [PlayLevel]   Compiling BP_FloatingText_Status as a dependent...
+[2019.11.07-12.41.27:332][951]LogUObjectHash: Compacting FUObjectHashTables data took   4.92ms
+[2019.11.07-12.41.27:332][951]LogPlayLevel: PlayLevel: Blueprint regeneration took 313 ms (2 blueprints)
+[2019.11.07-12.41.27:332][951]PIE: New page: PIE session: SampleMap (Nov 7, 2019, 11:41:27 PM)
+[2019.11.07-12.41.27:332][951]LogPlayLevel: Creating play world package: /Game/DamageDisplaySystem/Maps/UEDPIE_0_SampleMap
+[2019.11.07-12.41.27:345][951]LogPlayLevel: PIE: StaticDuplicateObject took: (0.012342s)
+[2019.11.07-12.41.27:346][951]LogAIModule: Creating AISystem for world SampleMap
+[2019.11.07-12.41.27:346][951]LogPlayLevel: PIE: World Init took: (0.000918s)
+[2019.11.07-12.41.27:346][951]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/DamageDisplaySystem/Maps/SampleMap.SampleMap to /Game/DamageDisplaySystem/Maps/UEDPIE_0_SampleMap.SampleMap (0.013452s)
+[2019.11.07-12.41.27:483][951]LogUObjectHash: Compacting FUObjectHashTables data took   5.90ms
+[2019.11.07-12.41.27:493][951]LogInit: XAudio2 using 'Headphones (High Definition Audio Device)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2019.11.07-12.41.27:511][951]LogInit: FAudioDevice initialized.
+[2019.11.07-12.41.27:521][951]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.11.07-12.41.27:551][951]LogLoad: Game class is 'BP_GameMode_C'
+[2019.11.07-12.41.27:554][951]LogWorld: Bringing World /Game/DamageDisplaySystem/Maps/UEDPIE_0_SampleMap.SampleMap up for play (max tick rate 0) at 2019.11.07-18.11.27
+[2019.11.07-12.41.27:555][951]LogWorld: Bringing up level for play took: 0.002996
+[2019.11.07-12.41.27:567][951]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2019.11.07-12.41.27:569][951]PIE: Play in editor start time for /Game/DamageDisplaySystem/Maps/UEDPIE_0_SampleMap 1.293
+[2019.11.07-12.41.27:569][951]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/DamageDisplaySystem/Maps/SampleMap.SampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/DamageDisplaySystem/Maps/SampleMap.SampleMap:PersistentLevel.SampleMap' with GeneratedClass '/Game/DamageDisplaySystem/Maps/SampleMap.SampleMap_C' with ClassGeneratedBy '/Game/DamageDisplaySystem/Maps/SampleMap.SampleMap:PersistentLevel.SampleMap'
+[2019.11.07-12.41.36:101][521]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/DamageDisplaySystem/Maps/SampleMap.SampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/DamageDisplaySystem/Maps/SampleMap.SampleMap:PersistentLevel.SampleMap' with GeneratedClass '/Game/DamageDisplaySystem/Maps/SampleMap.SampleMap_C' with ClassGeneratedBy '/Game/DamageDisplaySystem/Maps/SampleMap.SampleMap:PersistentLevel.SampleMap'
+[2019.11.07-12.41.36:102][521]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.11.07-12.41.36:123][521]LogSlate: Window 'Damage Display System Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2019.11.07-12.41.36:162][521]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.11.07-12.41.36:163][521]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/DamageDisplaySystem/Maps/SampleMap.SampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/DamageDisplaySystem/Maps/SampleMap.SampleMap:PersistentLevel.SampleMap' with GeneratedClass '/Game/DamageDisplaySystem/Maps/SampleMap.SampleMap_C' with ClassGeneratedBy '/Game/DamageDisplaySystem/Maps/SampleMap.SampleMap:PersistentLevel.SampleMap'
+[2019.11.07-12.41.36:229][521]LogUObjectHash: Compacting FUObjectHashTables data took   2.83ms
+[2019.11.07-12.41.36:251][522]LogPlayLevel: Display: Destroying online subsystem :Context_31
+[2019.11.07-12.42.05:712][623]BlueprintLog: New page: Compile BP_FloatingText_Parent
+[2019.11.07-12.42.06:010][623]LogUObjectHash: Compacting FUObjectHashTables data took   5.62ms
+[2019.11.07-12.42.06:109][623]LogSavePackage: Moving '../../../../../../Users/Rohit/Documents/GitHubProjects/UnrealEngine--DamageDisplaySystem/Saved/BP_FloatingText_Parent9CB52DB749B7FFD77A0A649B85126427.tmp' to '../../../../../../Users/Rohit/Documents/GitHubProjects/UnrealEngine--DamageDisplaySystem/Content/DamageDisplaySystem/Blueprints/Core/BP_FloatingText_Parent.uasset'
+[2019.11.07-12.42.11:384][130]LogSavePackage: Moving '../../../../../../Users/Rohit/Documents/GitHubProjects/UnrealEngine--DamageDisplaySystem/Saved/BP_FloatingText_Parent5A00774A4D9EB12368A3588F9AFF90D0.tmp' to '../../../../../../Users/Rohit/Documents/GitHubProjects/UnrealEngine--DamageDisplaySystem/Content/DamageDisplaySystem/Blueprints/Core/BP_FloatingText_Parent.uasset'
+[2019.11.07-12.42.15:291][400]LogSlate: Window 'Delete Variable' being destroyed
+[2019.11.07-12.42.37:632][ 10]LogRenderer: Reallocating scene render targets to support 1272x708 Format 10 NumSamples 1 (Frame:1).
+[2019.11.07-12.42.49:283][181]BlueprintLog: New page: Compile BP_FloatingText_Status
+[2019.11.07-12.42.49:590][181]LogUObjectHash: Compacting FUObjectHashTables data took   5.51ms
+[2019.11.07-12.43.01:457][371]LogSavePackage: Moving '../../../../../../Users/Rohit/Documents/GitHubProjects/UnrealEngine--DamageDisplaySystem/Saved/BP_FloatingText_Status75C83DC84B3A020882890F96E0877257.tmp' to '../../../../../../Users/Rohit/Documents/GitHubProjects/UnrealEngine--DamageDisplaySystem/Content/DamageDisplaySystem/Blueprints/Core/BP_FloatingText_Status.uasset'
+[2019.11.07-12.43.02:711][462]LogUObjectHash: Compacting FUObjectHashTables data took   7.02ms
+[2019.11.07-12.43.02:796][462]LogUObjectHash: Compacting FUObjectHashTables data took   1.20ms
+[2019.11.07-12.43.03:093][462]LogSavePackage: Moving '../../../../../../Users/Rohit/Documents/GitHubProjects/UnrealEngine--DamageDisplaySystem/Saved/SampleMapF953C790410B365180DEDE8C51505126.tmp' to '../../../../../../Users/Rohit/Documents/GitHubProjects/UnrealEngine--DamageDisplaySystem/Content/DamageDisplaySystem/Maps/SampleMap.umap'
+[2019.11.07-12.43.03:124][462]LogFileHelpers: Saving map 'SampleMap' took 0.396
+[2019.11.07-12.43.03:157][462]LogSavePackage: Moving '../../../../../../Users/Rohit/Documents/GitHubProjects/UnrealEngine--DamageDisplaySystem/Saved/BPC_FloatingTextSpawner4AD3CEE944FC9361B7D34A8B84277A07.tmp' to '../../../../../../Users/Rohit/Documents/GitHubProjects/UnrealEngine--DamageDisplaySystem/Content/DamageDisplaySystem/Blueprints/Core/BPC_FloatingTextSpawner.uasset'
+[2019.11.07-12.43.03:226][462]LogSavePackage: Moving '../../../../../../Users/Rohit/Documents/GitHubProjects/UnrealEngine--DamageDisplaySystem/Saved/BP_FloatingText_Parent94E6565C46ECB5BC03DBB689D6C75568.tmp' to '../../../../../../Users/Rohit/Documents/GitHubProjects/UnrealEngine--DamageDisplaySystem/Content/DamageDisplaySystem/Blueprints/Core/BP_FloatingText_Parent.uasset'
+[2019.11.07-12.43.23:692][227]BlueprintLog: New page: Compile BP_FloatingText_Parent
+[2019.11.07-12.43.24:000][227]LogUObjectHash: Compacting FUObjectHashTables data took   4.03ms
+[2019.11.07-12.43.24:479][268]LogSavePackage: Moving '../../../../../../Users/Rohit/Documents/GitHubProjects/UnrealEngine--DamageDisplaySystem/Saved/BP_FloatingText_Parent0FFCD8384E10612705BFCD82A2A00277.tmp' to '../../../../../../Users/Rohit/Documents/GitHubProjects/UnrealEngine--DamageDisplaySystem/Content/DamageDisplaySystem/Blueprints/Core/BP_FloatingText_Parent.uasset'
+[2019.11.07-12.43.27:557][524]LogUObjectHash: Compacting FUObjectHashTables data took   6.74ms
+[2019.11.07-12.43.35:849][158]LogUObjectHash: Compacting FUObjectHashTables data took   3.75ms
+[2019.11.07-12.43.36:104][158]LogUObjectHash: Compacting FUObjectHashTables data took   4.98ms
+[2019.11.07-12.43.36:108][158]LogMetaData: Removing '/Game/DamageDisplaySystem/Blueprints/Core/BP_FloatingText_Damage.BP_FloatingText_Damage_C' ref from Metadata '/Game/DamageDisplaySystem/Blueprints/Core/BP_FloatingText_Status.PackageMetaData'
+[2019.11.07-12.43.36:108][158]LogMetaData: Removing '/Game/DamageDisplaySystem/Blueprints/Core/BP_FloatingText_Damage.BP_FloatingText_Damage:GetVerticalDistanceCovered.K2Node_FunctionEntry_26' ref from Metadata '/Game/DamageDisplaySystem/Blueprints/Core/BP_FloatingText_Status.PackageMetaData'
+[2019.11.07-12.43.36:108][158]LogMetaData: Removing '/Game/DamageDisplaySystem/Blueprints/Core/BP_FloatingText_Damage.SKEL_BP_FloatingText_Damage_C' ref from Metadata '/Game/DamageDisplaySystem/Blueprints/Core/BP_FloatingText_Status.PackageMetaData'
+[2019.11.07-12.43.36:174][158]LogSavePackage: Moving '../../../../../../Users/Rohit/Documents/GitHubProjects/UnrealEngine--DamageDisplaySystem/Saved/BP_FloatingText_Damage4704B8E140CA5114236DB2A03BF9889A.tmp' to '../../../../../../Users/Rohit/Documents/GitHubProjects/UnrealEngine--DamageDisplaySystem/Content/DamageDisplaySystem/Blueprints/Core/BP_FloatingText_Damage.uasset'
+[2019.11.07-12.43.36:354][158]LogUObjectHash: Compacting FUObjectHashTables data took   4.73ms
+[2019.11.07-12.43.36:407][158]LogUObjectHash: Compacting FUObjectHashTables data took   2.91ms
+[2019.11.07-12.43.36:459][158]LogUObjectHash: Compacting FUObjectHashTables data took   1.10ms
+[2019.11.07-12.43.36:491][158]LogSavePackage: Moving '../../../../../../Users/Rohit/Documents/GitHubProjects/UnrealEngine--DamageDisplaySystem/Saved/BPC_FloatingTextSpawnerD2A14AFC4BE88103516C11B2D37DA293.tmp' to '../../../../../../Users/Rohit/Documents/GitHubProjects/UnrealEngine--DamageDisplaySystem/Content/DamageDisplaySystem/Blueprints/Core/BPC_FloatingTextSpawner.uasset'
+[2019.11.07-12.43.38:346][278]LogUObjectHash: Compacting FUObjectHashTables data took   5.45ms
+[2019.11.07-12.43.38:417][278]LogUObjectHash: Compacting FUObjectHashTables data took   1.10ms
+[2019.11.07-12.43.38:736][278]LogSavePackage: Moving '../../../../../../Users/Rohit/Documents/GitHubProjects/UnrealEngine--DamageDisplaySystem/Saved/SampleMapD46F90AE45D50B5D690875806E4EFEAD.tmp' to '../../../../../../Users/Rohit/Documents/GitHubProjects/UnrealEngine--DamageDisplaySystem/Content/DamageDisplaySystem/Maps/SampleMap.umap'
+[2019.11.07-12.43.38:760][278]LogFileHelpers: Saving map 'SampleMap' took 0.401
+[2019.11.07-12.43.48:774][228]BlueprintLog: New page: Compile BP_FloatingText_Damage
+[2019.11.07-12.43.49:082][228]LogUObjectHash: Compacting FUObjectHashTables data took   5.64ms
+[2019.11.07-12.43.49:171][228]LogSavePackage: Moving '../../../../../../Users/Rohit/Documents/GitHubProjects/UnrealEngine--DamageDisplaySystem/Saved/BP_FloatingText_Damage1EF5B93A42E9CE1A5BB892BF41CFE8D7.tmp' to '../../../../../../Users/Rohit/Documents/GitHubProjects/UnrealEngine--DamageDisplaySystem/Content/DamageDisplaySystem/Blueprints/Core/BP_FloatingText_Damage.uasset'
+[2019.11.07-12.44.14:145][834]BlueprintLog: New page: Compile BP_FloatingText_Parent
+[2019.11.07-12.44.14:542][834]LogUObjectHash: Compacting FUObjectHashTables data took   5.05ms
+[2019.11.07-12.44.21:123][606]LogSavePackage: Moving '../../../../../../Users/Rohit/Documents/GitHubProjects/UnrealEngine--DamageDisplaySystem/Saved/BP_FloatingText_ParentF61C5A7E40EF00B60CFE31BA56F4806B.tmp' to '../../../../../../Users/Rohit/Documents/GitHubProjects/UnrealEngine--DamageDisplaySystem/Content/DamageDisplaySystem/Blueprints/Core/BP_FloatingText_Parent.uasset'
+[2019.11.07-12.44.22:229][728]LogUObjectHash: Compacting FUObjectHashTables data took   6.18ms
+[2019.11.07-12.44.24:091][949]BlueprintLog: New page: Compile BPC_FloatingTextSpawner
+[2019.11.07-12.44.24:315][949]LogUObjectHash: Compacting FUObjectHashTables data took   3.66ms
+[2019.11.07-12.44.25:010][ 12]LogSavePackage: Moving '../../../../../../Users/Rohit/Documents/GitHubProjects/UnrealEngine--DamageDisplaySystem/Saved/BPC_FloatingTextSpawnerD8C4B15347059900F55A0B9003772CF2.tmp' to '../../../../../../Users/Rohit/Documents/GitHubProjects/UnrealEngine--DamageDisplaySystem/Content/DamageDisplaySystem/Blueprints/Core/BPC_FloatingTextSpawner.uasset'
+[2019.11.07-12.44.28:706][389]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2019.11.07-12.44.29:019][416]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2019.11.07-12.44.31:178][568]LogUObjectHash: Compacting FUObjectHashTables data took   9.34ms
+[2019.11.07-12.44.31:260][568]LogUObjectHash: Compacting FUObjectHashTables data took   3.49ms
+[2019.11.07-12.44.31:489][568]LogSavePackage: Moving '../../../../../../Users/Rohit/Documents/GitHubProjects/UnrealEngine--DamageDisplaySystem/Saved/SampleMap018F492A4A98244DC467FAA1013234D4.tmp' to '../../../../../../Users/Rohit/Documents/GitHubProjects/UnrealEngine--DamageDisplaySystem/Content/DamageDisplaySystem/Maps/SampleMap.umap'
+[2019.11.07-12.44.31:513][568]LogFileHelpers: Saving map 'SampleMap' took 0.320
+[2019.11.07-12.44.44:091][682]LogBlueprintActionDatabase: Requesting refresh due to module change: ExternalImagePicker (loaded)
+[2019.11.07-12.44.45:464][682]LogSlate: Only BGRA pngs, bmps or icos are supported in by External Image Picker
+[2019.11.07-12.44.52:437][ 94]LogSlate: Window 'Project Settings' being destroyed
+[2019.11.07-12.44.52:450][ 94]LogSlate: Window 'Project Settings' being destroyed
+[2019.11.07-12.44.53:892][190]LogUObjectHash: Compacting FUObjectHashTables data took   8.28ms
+[2019.11.07-12.44.53:974][190]LogSlate: Window 'DamageDisplaySystem - Unreal Editor' being destroyed
+[2019.11.07-12.44.54:194][191]Cmd: QUIT_EDITOR
+[2019.11.07-12.44.54:262][191]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2019.11.07-12.44.54:283][191]LogExit: Preparing to exit.
+[2019.11.07-12.44.55:449][191]LogExit: Editor shut down
+[2019.11.07-12.44.55:450][191]LogExit: Transaction tracking system shut down
+[2019.11.07-12.44.55:910][191]LogExit: Object subsystem successfully closed.
+[2019.11.07-12.44.55:931][191]LogShaderCompilers: Display: Shaders left to compile 0
+[2019.11.07-12.44.55:937][191]LogD3D11RHI: Shutdown
+[2019.11.07-12.44.55:937][191]LogD3D11RHI: CleanupD3DDevice
+[2019.11.07-12.44.55:937][191]LogRendererCore: FGlobalReadBuffer::ReleaseRHI
+[2019.11.07-12.44.55:937][191]LogRendererCore: FGlobalDynamicReadBuffer::Cleanup()
+[2019.11.07-12.44.55:937][191]LogRendererCore: FGlobalReadBuffer::ReleaseRHI
+[2019.11.07-12.44.55:937][191]LogRendererCore: FGlobalDynamicReadBuffer::Cleanup()
+[2019.11.07-12.44.55:937][191]LogRendererCore: FGlobalReadBuffer::ReleaseRHI
+[2019.11.07-12.44.55:937][191]LogRendererCore: FGlobalDynamicReadBuffer::Cleanup()
+[2019.11.07-12.44.56:111][191]LogD3D11RHI: ~FD3D11DynamicRHI
+[2019.11.07-12.44.56:262][191]LogModuleManager: Shutting down and abandoning module ExternalImagePicker (652)
+[2019.11.07-12.44.56:262][191]LogModuleManager: Shutting down and abandoning module SequencerWidgets (650)
+[2019.11.07-12.44.56:262][191]LogModuleManager: Shutting down and abandoning module MovieSceneCapture (648)
+[2019.11.07-12.44.56:262][191]LogModuleManager: Shutting down and abandoning module Voice (646)
+[2019.11.07-12.44.56:262][191]LogModuleManager: Shutting down and abandoning module BlueprintGraph (644)
+[2019.11.07-12.44.56:262][191]LogModuleManager: Shutting down and abandoning module HierarchicalLODOutliner (642)
+[2019.11.07-12.44.56:263][191]LogModuleManager: Shutting down and abandoning module SceneOutliner (640)
+[2019.11.07-12.44.56:263][191]LogModuleManager: Shutting down and abandoning module AddContentDialog (638)
+[2019.11.07-12.44.56:264][191]LogModuleManager: Shutting down and abandoning module WidgetCarousel (637)
+[2019.11.07-12.44.56:264][191]LogModuleManager: Shutting down and abandoning module EditorWidgets (634)
+[2019.11.07-12.44.56:265][191]LogModuleManager: Shutting down and abandoning module CollectionManager (632)
+[2019.11.07-12.44.56:266][191]LogModuleManager: Shutting down and abandoning module StatsViewer (630)
+[2019.11.07-12.44.56:266][191]LogModuleManager: Shutting down and abandoning module FoliageEdit (628)
+[2019.11.07-12.44.56:266][191]LogModuleManager: Shutting down and abandoning module LandscapeEditor (626)
+[2019.11.07-12.44.56:266][191]LogModuleManager: Shutting down and abandoning module MeshPaintMode (624)
+[2019.11.07-12.44.56:266][191]LogModuleManager: Shutting down and abandoning module SceneDepthPickerMode (622)
+[2019.11.07-12.44.56:266][191]LogModuleManager: Shutting down and abandoning module ActorPickerMode (620)
+[2019.11.07-12.44.56:266][191]LogModuleManager: Shutting down and abandoning module GeometryMode (618)
+[2019.11.07-12.44.56:266][191]LogModuleManager: Shutting down and abandoning module TextureAlignMode (616)
+[2019.11.07-12.44.56:266][191]LogModuleManager: Shutting down and abandoning module BspMode (614)
+[2019.11.07-12.44.56:266][191]LogModuleManager: Shutting down and abandoning module PIEPreviewDeviceProfileSelector (612)
+[2019.11.07-12.44.56:267][191]LogModuleManager: Shutting down and abandoning module SequenceRecorderSections (610)
+[2019.11.07-12.44.56:267][191]LogModuleManager: Shutting down and abandoning module AutomationWorker (608)
+[2019.11.07-12.44.56:267][191]LogModuleManager: Shutting down and abandoning module OculusMR (606)
+[2019.11.07-12.44.56:267][191]LogModuleManager: Shutting down and abandoning module AudioCaptureEditor (604)
+[2019.11.07-12.44.56:267][191]LogModuleManager: Shutting down and abandoning module MatineeToLevelSequence (602)
+[2019.11.07-12.44.56:267][191]LogModuleManager: Shutting down and abandoning module LevelSequenceEditor (600)
+[2019.11.07-12.44.56:267][191]LogModuleManager: Shutting down and abandoning module PlacementMode (599)
+[2019.11.07-12.44.56:267][191]LogModuleManager: Shutting down and abandoning module MaterialEditor (598)
+[2019.11.07-12.44.56:267][191]LogModuleManager: Shutting down and abandoning module ActorSequenceEditor (594)
+[2019.11.07-12.44.56:268][191]LogModuleManager: Shutting down and abandoning module WmfMediaFactory (592)
+[2019.11.07-12.44.56:268][191]LogModuleManager: Shutting down and abandoning module WmfMediaEditor (590)
+[2019.11.07-12.44.56:268][191]LogModuleManager: Shutting down and abandoning module WebMMediaFactory (588)
+[2019.11.07-12.44.56:268][191]LogModuleManager: Shutting down and abandoning module WebMMediaEditor (586)
+[2019.11.07-12.44.56:268][191]LogModuleManager: Shutting down and abandoning module WebMMedia (584)
+[2019.11.07-12.44.56:268][191]LogModuleManager: Shutting down and abandoning module MediaPlayerEditor (582)
+[2019.11.07-12.44.56:268][191]LogModuleManager: Shutting down and abandoning module MediaCompositingEditor (580)
+[2019.11.07-12.44.56:268][191]LogModuleManager: Shutting down and abandoning module SequenceRecorder (579)
+[2019.11.07-12.44.56:268][191]LogModuleManager: Shutting down and abandoning module OpenExrWrapper (576)
+[2019.11.07-12.44.56:268][191]LogModuleManager: Shutting down and abandoning module ImgMediaFactory (574)
+[2019.11.07-12.44.56:268][191]LogModuleManager: Shutting down and abandoning module ImgMediaEditor (572)
+[2019.11.07-12.44.56:268][191]LogModuleManager: Shutting down and abandoning module AvfMediaFactory (570)
+[2019.11.07-12.44.56:269][191]LogModuleManager: Shutting down and abandoning module AvfMediaEditor (568)
+[2019.11.07-12.44.56:269][191]LogModuleManager: Shutting down and abandoning module AndroidMediaFactory (566)
+[2019.11.07-12.44.56:269][191]LogModuleManager: Shutting down and abandoning module AndroidMediaEditor (564)
+[2019.11.07-12.44.56:269][191]LogModuleManager: Shutting down and abandoning module MagicLeapCameraPreviewFactory (562)
+[2019.11.07-12.44.56:269][191]LogModuleManager: Shutting down and abandoning module MagicLeapMediaCodecFactory (560)
+[2019.11.07-12.44.56:269][191]LogModuleManager: Shutting down and abandoning module MagicLeapMediaFactory (558)
+[2019.11.07-12.44.56:269][191]LogModuleManager: Shutting down and abandoning module MagicLeapMediaEditor (556)
+[2019.11.07-12.44.56:269][191]LogModuleManager: Shutting down and abandoning module CharacterAI (554)
+[2019.11.07-12.44.56:269][191]LogModuleManager: Shutting down and abandoning module SmartSnapping (552)
+[2019.11.07-12.44.56:269][191]LogModuleManager: Shutting down and abandoning module SessionServices (550)
+[2019.11.07-12.44.56:269][191]LogModuleManager: Shutting down and abandoning module MeshPaint (548)
+[2019.11.07-12.44.56:269][191]LogModuleManager: Shutting down and abandoning module ViewportSnapping (546)
+[2019.11.07-12.44.56:269][191]LogModuleManager: Shutting down and abandoning module ViewportInteraction (544)
+[2019.11.07-12.44.56:269][191]LogModuleManager: Shutting down and abandoning module ClothPainter (542)
+[2019.11.07-12.44.56:269][191]LogModuleManager: Shutting down and abandoning module SkeletalMeshEditor (541)
+[2019.11.07-12.44.56:269][191]LogModuleManager: Shutting down and abandoning module LogVisualizer (538)
+[2019.11.07-12.44.56:270][191]LogModuleManager: Shutting down and abandoning module IntroTutorials (536)
+[2019.11.07-12.44.56:270][191]LogModuleManager: Shutting down and abandoning module GameProjectGeneration (535)
+[2019.11.07-12.44.56:270][191]LogModuleManager: Shutting down and abandoning module LuminPlatformEditor (532)
+[2019.11.07-12.44.56:270][191]LogModuleManager: Shutting down and abandoning module IOSPlatformEditor (530)
+[2019.11.07-12.44.56:270][191]LogModuleManager: Shutting down and abandoning module HTML5PlatformEditor (528)
+[2019.11.07-12.44.56:270][191]LogModuleManager: Shutting down and abandoning module AndroidPlatformEditor (526)
+[2019.11.07-12.44.56:270][191]LogModuleManager: Shutting down and abandoning module AndroidDeviceDetection (525)
+[2019.11.07-12.44.56:770][191]LogModuleManager: Shutting down and abandoning module WindowsPlatformEditor (522)
+[2019.11.07-12.44.56:770][191]LogModuleManager: Shutting down and abandoning module LuminRuntimeSettings (520)
+[2019.11.07-12.44.56:770][191]LogModuleManager: Shutting down and abandoning module IOSRuntimeSettings (518)
+[2019.11.07-12.44.56:770][191]LogModuleManager: Shutting down and abandoning module AndroidRuntimeSettings (516)
+[2019.11.07-12.44.56:770][191]LogModuleManager: Shutting down and abandoning module TimeManagementEditor (514)
+[2019.11.07-12.44.56:770][191]LogModuleManager: Shutting down and abandoning module InputBindingEditor (512)
+[2019.11.07-12.44.56:770][191]LogModuleManager: Shutting down and abandoning module MergeActors (510)
+[2019.11.07-12.44.56:770][191]LogModuleManager: Shutting down and abandoning module LocalizationDashboard (508)
+[2019.11.07-12.44.56:770][191]LogModuleManager: Shutting down and abandoning module LocalizationService (507)
+[2019.11.07-12.44.56:770][191]LogModuleManager: Shutting down and abandoning module HardwareTargeting (504)
+[2019.11.07-12.44.56:770][191]LogModuleManager: Shutting down and abandoning module DeviceProfileEditor (502)
+[2019.11.07-12.44.56:770][191]LogModuleManager: Shutting down and abandoning module UndoHistory (500)
+[2019.11.07-12.44.56:771][191]LogModuleManager: Shutting down and abandoning module XmlParser (498)
+[2019.11.07-12.44.56:771][191]LogModuleManager: Shutting down and abandoning module Blutility (496)
+[2019.11.07-12.44.56:771][191]LogModuleManager: Shutting down and abandoning module ProjectSettingsViewer (494)
+[2019.11.07-12.44.56:771][191]LogModuleManager: Shutting down and abandoning module ProjectTargetPlatformEditor (493)
+[2019.11.07-12.44.56:771][191]LogModuleManager: Shutting down and abandoning module EditorSettingsViewer (490)
+[2019.11.07-12.44.56:771][191]LogModuleManager: Shutting down and abandoning module SettingsEditor (488)
+[2019.11.07-12.44.56:771][191]LogModuleManager: Shutting down and abandoning module ProjectLauncher (486)
+[2019.11.07-12.44.56:771][191]LogModuleManager: Shutting down and abandoning module SessionFrontend (484)
+[2019.11.07-12.44.56:771][191]LogModuleManager: Shutting down and abandoning module ProfilerClient (482)
+[2019.11.07-12.44.56:771][191]LogModuleManager: Shutting down and abandoning module DeviceManager (480)
+[2019.11.07-12.44.56:771][191]LogModuleManager: Shutting down and abandoning module TargetDeviceServices (479)
+[2019.11.07-12.44.56:824][191]LogModuleManager: Shutting down and abandoning module AutomationController (476)
+[2019.11.07-12.44.56:824][191]LogModuleManager: Shutting down and abandoning module AutomationWindow (474)
+[2019.11.07-12.44.56:824][191]LogModuleManager: Shutting down and abandoning module Layers (472)
+[2019.11.07-12.44.56:824][191]LogModuleManager: Shutting down and abandoning module ComponentVisualizers (470)
+[2019.11.07-12.44.56:824][191]LogModuleManager: Shutting down and abandoning module DetailCustomizations (468)
+[2019.11.07-12.44.56:824][191]LogModuleManager: Shutting down and abandoning module PackagesDialog (466)
+[2019.11.07-12.44.56:824][191]LogModuleManager: Shutting down and abandoning module AnimationBlueprintEditor (464)
+[2019.11.07-12.44.56:824][191]LogModuleManager: Shutting down and abandoning module Persona (462)
+[2019.11.07-12.44.56:824][191]LogModuleManager: Shutting down and abandoning module AdvancedPreviewScene (461)
+[2019.11.07-12.44.56:824][191]LogModuleManager: Shutting down and abandoning module AnimGraph (459)
+[2019.11.07-12.44.56:824][191]LogModuleManager: Shutting down and abandoning module Kismet (456)
+[2019.11.07-12.44.56:830][191]LogModuleManager: Shutting down and abandoning module GraphEditor (454)
+[2019.11.07-12.44.56:830][191]LogModuleManager: Shutting down and abandoning module ClassViewer (452)
+[2019.11.07-12.44.56:830][191]LogModuleManager: Shutting down and abandoning module Toolbox (450)
+[2019.11.07-12.44.56:830][191]LogModuleManager: Shutting down and abandoning module ModuleUI (448)
+[2019.11.07-12.44.56:830][191]LogModuleManager: Shutting down and abandoning module MovieSceneTools (446)
+[2019.11.07-12.44.56:830][191]LogModuleManager: Shutting down and abandoning module OutputLog (444)
+[2019.11.07-12.44.56:830][191]LogModuleManager: Shutting down and abandoning module GammaUI (442)
+[2019.11.07-12.44.56:830][191]LogModuleManager: Shutting down and abandoning module Documentation (440)
+[2019.11.07-12.44.56:830][191]LogModuleManager: Shutting down and abandoning module LiveCoding (438)
+[2019.11.07-12.44.56:830][191]LogModuleManager: Shutting down and abandoning module LevelSequence (436)
+[2019.11.07-12.44.56:830][191]LogModuleManager: Shutting down and abandoning module MovieSceneTracks (434)
+[2019.11.07-12.44.56:830][191]LogModuleManager: Shutting down and abandoning module MovieScene (432)
+[2019.11.07-12.44.56:830][191]LogModuleManager: Shutting down and abandoning module StreamingPauseRendering (430)
+[2019.11.07-12.44.56:830][191]LogModuleManager: Shutting down and abandoning module LauncherPlatform (428)
+[2019.11.07-12.44.56:830][191]LogModuleManager: Shutting down and abandoning module AnalyticsET (426)
+[2019.11.07-12.44.56:830][191]LogModuleManager: Shutting down and abandoning module PortalServices (424)
+[2019.11.07-12.44.56:830][191]LogModuleManager: Shutting down and abandoning module PortalRpc (422)
+[2019.11.07-12.44.56:830][191]LogModuleManager: Shutting down and abandoning module MessagingRpc (420)
+[2019.11.07-12.44.56:830][191]LogModuleManager: Shutting down and abandoning module AIModule (418)
+[2019.11.07-12.44.56:831][191]LogModuleManager: Shutting down and abandoning module GameplayDebugger (417)
+[2019.11.07-12.44.56:831][191]LogModuleManager: Shutting down and abandoning module AITestSuite (415)
+[2019.11.07-12.44.56:831][191]LogModuleManager: Shutting down and abandoning module NavigationSystem (413)
+[2019.11.07-12.44.56:831][191]LogModuleManager: Shutting down and abandoning module DesktopPlatform (410)
+[2019.11.07-12.44.56:831][191]LogModuleManager: Shutting down and abandoning module ImageWriteQueue (408)
+[2019.11.07-12.44.56:834][191]LogModuleManager: Shutting down and abandoning module ProfilerService (406)
+[2019.11.07-12.44.57:014][191]LogModuleManager: Shutting down and abandoning module TaskGraph (404)
+[2019.11.07-12.44.57:014][191]LogModuleManager: Shutting down and abandoning module SteamVRController (402)
+[2019.11.07-12.44.57:014][191]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponentEditor (400)
+[2019.11.07-12.44.57:014][191]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponent (398)
+[2019.11.07-12.44.57:014][191]LogModuleManager: Shutting down and abandoning module OculusEditor (396)
+[2019.11.07-12.44.57:014][191]LogModuleManager: Shutting down and abandoning module OculusInput (394)
+[2019.11.07-12.44.57:014][191]LogModuleManager: Shutting down and abandoning module MobilePatchingUtils (392)
+[2019.11.07-12.44.57:014][191]LogModuleManager: Shutting down and abandoning module EditableMesh (390)
+[2019.11.07-12.44.57:014][191]LogModuleManager: Shutting down and abandoning module CustomMeshComponent (388)
+[2019.11.07-12.44.57:014][191]LogModuleManager: Shutting down and abandoning module CableComponent (386)
+[2019.11.07-12.44.57:014][191]LogModuleManager: Shutting down and abandoning module AudioCapture (384)
+[2019.11.07-12.44.57:014][191]LogModuleManager: Shutting down and abandoning module ArchVisCharacter (382)
+[2019.11.07-12.44.57:014][191]LogModuleManager: Shutting down and abandoning module AndroidPermission (380)
+[2019.11.07-12.44.57:014][191]LogModuleManager: Shutting down and abandoning module NUTUnrealEngine4 (378)
+[2019.11.07-12.44.57:014][191]LogModuleManager: Shutting down and abandoning module NetcodeUnitTest (376)
+[2019.11.07-12.44.57:015][191]LogModuleManager: Shutting down and abandoning module MediaCompositing (374)
+[2019.11.07-12.44.57:015][191]LogModuleManager: Shutting down and abandoning module LinearTimecode (372)
+[2019.11.07-12.44.57:015][191]LogModuleManager: Shutting down and abandoning module ImgMedia (370)
+[2019.11.07-12.44.57:015][191]LogModuleManager: Shutting down and abandoning module MagicLeapHelperVulkan (368)
+[2019.11.07-12.44.57:015][191]LogModuleManager: Shutting down and abandoning module MagicLeapHelperOpenGL (366)
+[2019.11.07-12.44.57:015][191]LogModuleManager: Shutting down and abandoning module MagicLeapAudio (364)
+[2019.11.07-12.44.57:015][191]LogModuleManager: Shutting down and abandoning module HTML5Networking (362)
+[2019.11.07-12.44.57:015][191]LogModuleManager: Shutting down and abandoning module GeometryCacheTracks (360)
+[2019.11.07-12.44.57:015][191]LogModuleManager: Shutting down and abandoning module GeometryCacheSequencer (358)
+[2019.11.07-12.44.57:015][191]LogModuleManager: Shutting down and abandoning module BackChannel (356)
+[2019.11.07-12.44.57:015][191]LogModuleManager: Shutting down and abandoning module AppleVision (354)
+[2019.11.07-12.44.57:015][191]LogModuleManager: Shutting down and abandoning module AppleImageUtilsBlueprintSupport (352)
+[2019.11.07-12.44.57:015][191]LogModuleManager: Shutting down and abandoning module AppleImageUtils (350)
+[2019.11.07-12.44.57:015][191]LogModuleManager: Shutting down and abandoning module AlembicImporter (348)
+[2019.11.07-12.44.57:015][191]LogModuleManager: Shutting down and abandoning module AlembicLibrary (347)
+[2019.11.07-12.44.57:015][191]LogModuleManager: Shutting down and abandoning module GeometryCache (346)
+[2019.11.07-12.44.57:015][191]LogModuleManager: Shutting down and abandoning module GeometryCacheEd (345)
+[2019.11.07-12.44.57:015][191]LogModuleManager: Shutting down and abandoning module VariantManagerContent (340)
+[2019.11.07-12.44.57:015][191]LogModuleManager: Shutting down and abandoning module DatasmithContentEditor (338)
+[2019.11.07-12.44.57:015][191]LogModuleManager: Shutting down and abandoning module SpeedTreeImporter (336)
+[2019.11.07-12.44.57:015][191]LogModuleManager: Shutting down and abandoning module PluginBrowser (334)
+[2019.11.07-12.44.57:015][191]LogModuleManager: Shutting down and abandoning module MobileLauncherProfileWizard (332)
+[2019.11.07-12.44.57:015][191]LogModuleManager: Shutting down and abandoning module MaterialAnalyzer (330)
+[2019.11.07-12.44.57:015][191]LogModuleManager: Shutting down and abandoning module CryptoKeysOpenSSL (328)
+[2019.11.07-12.44.57:015][191]LogModuleManager: Shutting down and abandoning module CryptoKeys (326)
+[2019.11.07-12.44.57:015][191]LogModuleManager: Shutting down and abandoning module VisualStudioSourceCodeAccess (324)
+[2019.11.07-12.44.57:015][191]LogModuleManager: Shutting down and abandoning module VisualStudioCodeSourceCodeAccess (322)
+[2019.11.07-12.44.57:015][191]LogModuleManager: Shutting down and abandoning module UObjectPlugin (320)
+[2019.11.07-12.44.57:015][191]LogModuleManager: Shutting down and abandoning module SubversionSourceControl (318)
+[2019.11.07-12.44.57:015][191]LogModuleManager: Shutting down and abandoning module PerforceSourceControl (316)
+[2019.11.07-12.44.57:015][191]LogModuleManager: Shutting down and abandoning module GitSourceControl (314)
+[2019.11.07-12.44.57:015][191]LogModuleManager: Shutting down and abandoning module SourceControl (313)
+[2019.11.07-12.44.57:015][191]LogModuleManager: Shutting down and abandoning module CLionSourceCodeAccess (310)
+[2019.11.07-12.44.57:015][191]LogModuleManager: Shutting down and abandoning module AnimationSharingEd (308)
+[2019.11.07-12.44.57:015][191]LogModuleManager: Shutting down and abandoning module ActorLayerUtilitiesEditor (306)
+[2019.11.07-12.44.57:015][191]LogModuleManager: Shutting down and abandoning module ActorLayerUtilities (304)
+[2019.11.07-12.44.57:015][191]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeEditor (302)
+[2019.11.07-12.44.57:015][191]LogModuleManager: Shutting down and abandoning module PaperTiledImporter (300)
+[2019.11.07-12.44.57:015][191]LogModuleManager: Shutting down and abandoning module PaperSpriteSheetImporter (298)
+[2019.11.07-12.44.57:015][191]LogModuleManager: Shutting down and abandoning module Paper2DEditor (296)
+[2019.11.07-12.44.57:015][191]LogModuleManager: Shutting down and abandoning module SignificanceManager (294)
+[2019.11.07-12.44.57:015][191]LogModuleManager: Shutting down and abandoning module RuntimePhysXCooking (292)
+[2019.11.07-12.44.57:015][191]LogModuleManager: Shutting down and abandoning module PhysXVehiclesEditor (290)
+[2019.11.07-12.44.57:015][191]LogModuleManager: Shutting down and abandoning module PhysXVehicles (288)
+[2019.11.07-12.44.57:015][191]LogModuleManager: Shutting down and abandoning module LocationServicesBPLibrary (286)
+[2019.11.07-12.44.57:015][191]LogModuleManager: Shutting down and abandoning module ActorSequence (284)
+[2019.11.07-12.44.57:015][191]LogModuleManager: Shutting down and abandoning module UdpMessaging (282)
+[2019.11.07-12.44.57:116][191]LogModuleManager: Shutting down and abandoning module TcpMessaging (280)
+[2019.11.07-12.44.57:217][191]LogModuleManager: Shutting down and abandoning module MagicLeapIdentity (278)
+[2019.11.07-12.44.57:217][191]LogModuleManager: Shutting down and abandoning module MagicLeapSecureStorage (276)
+[2019.11.07-12.44.57:217][191]LogModuleManager: Shutting down and abandoning module MagicLeapHandTracking (274)
+[2019.11.07-12.44.57:217][191]LogModuleManager: Shutting down and abandoning module MagicLeapEyeTracker (272)
+[2019.11.07-12.44.57:217][191]LogModuleManager: Shutting down and abandoning module MagicLeapController (270)
+[2019.11.07-12.44.57:217][191]LogSlate: Slate User Destroyed.  User Index 0, Is Virtual User: 0
+[2019.11.07-12.44.57:217][191]LogModuleManager: Shutting down and abandoning module MagicLeapAR (268)
+[2019.11.07-12.44.57:217][191]LogModuleManager: Shutting down and abandoning module AugmentedReality (267)
+[2019.11.07-12.44.57:217][191]LogModuleManager: Shutting down and abandoning module GameplayTagsEditor (264)
+[2019.11.07-12.44.57:217][191]LogModuleManager: Shutting down and abandoning module FacialAnimationEditor (262)
+[2019.11.07-12.44.57:217][191]LogModuleManager: Shutting down and abandoning module FacialAnimation (260)
+[2019.11.07-12.44.57:217][191]LogModuleManager: Shutting down and abandoning module DataValidation (258)
+[2019.11.07-12.44.57:217][191]LogModuleManager: Shutting down and abandoning module AssetManagerEditor (256)
+[2019.11.07-12.44.57:217][191]LogModuleManager: Shutting down and abandoning module LevelEditor (255)
+[2019.11.07-12.44.57:218][191]LogModuleManager: Shutting down and abandoning module PixelInspectorModule (254)
+[2019.11.07-12.44.57:218][191]LogModuleManager: Shutting down and abandoning module CommonMenuExtensions (252)
+[2019.11.07-12.44.57:218][191]LogModuleManager: Shutting down and abandoning module MainFrame (250)
+[2019.11.07-12.44.57:218][191]LogModuleManager: Shutting down and abandoning module HotReload (249)
+[2019.11.07-12.44.57:218][191]LogModuleManager: Shutting down and abandoning module ContentBrowser (245)
+[2019.11.07-12.44.57:219][191]LogModuleManager: Shutting down and abandoning module TreeMap (243)
+[2019.11.07-12.44.57:219][191]LogModuleManager: Shutting down and abandoning module AnimationSharing (240)
+[2019.11.07-12.44.57:219][191]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeRuntime (238)
+[2019.11.07-12.44.57:219][191]LogModuleManager: Shutting down and abandoning module AISupportModule (236)
+[2019.11.07-12.44.57:219][191]LogModuleManager: Shutting down and abandoning module Paper2D (234)
+[2019.11.07-12.44.57:219][191]LogModuleManager: Shutting down and abandoning module WindowsMoviePlayer (232)
+[2019.11.07-12.44.57:219][191]LogModuleManager: Shutting down and abandoning module WebMMoviePlayer (230)
+[2019.11.07-12.44.57:219][191]LogModuleManager: Shutting down and abandoning module PacketHandler (228)
+[2019.11.07-12.44.57:219][191]LogModuleManager: Shutting down and abandoning module ClothingSystemEditor (226)
+[2019.11.07-12.44.57:219][191]LogModuleManager: Shutting down and abandoning module ClothingSystemRuntime (224)
+[2019.11.07-12.44.57:219][191]LogModuleManager: Shutting down and abandoning module MediaAssets (222)
+[2019.11.07-12.44.57:219][191]LogModuleManager: Shutting down and abandoning module Overlay (220)
+[2019.11.07-12.44.57:219][191]LogModuleManager: Shutting down and abandoning module OverlayEditor (219)
+[2019.11.07-12.44.57:219][191]LogModuleManager: Shutting down and abandoning module VREditor (216)
+[2019.11.07-12.44.57:219][191]LogModuleManager: Shutting down and abandoning module StringTableEditor (214)
+[2019.11.07-12.44.57:219][191]LogModuleManager: Shutting down and abandoning module GameplayTasksEditor (212)
+[2019.11.07-12.44.57:219][191]LogModuleManager: Shutting down and abandoning module BehaviorTreeEditor (210)
+[2019.11.07-12.44.57:219][191]LogModuleManager: Shutting down and abandoning module FunctionalTesting (208)
+[2019.11.07-12.44.57:219][191]LogModuleManager: Shutting down and abandoning module CollisionAnalyzer (206)
+[2019.11.07-12.44.57:219][191]LogModuleManager: Shutting down and abandoning module WorkspaceMenuStructure (205)
+[2019.11.07-12.44.57:219][191]LogModuleManager: Shutting down and abandoning module UMG (202)
+[2019.11.07-12.44.57:219][191]LogModuleManager: Shutting down and abandoning module UMGEditor (201)
+[2019.11.07-12.44.57:219][191]LogModuleManager: Shutting down and abandoning module Sequencer (200)
+[2019.11.07-12.44.57:220][191]LogModuleManager: Shutting down and abandoning module MessageLog (197)
+[2019.11.07-12.44.57:220][191]LogModuleManager: Shutting down and abandoning module SlateReflector (192)
+[2019.11.07-12.44.57:220][191]LogModuleManager: Shutting down and abandoning module Slate (190)
+[2019.11.07-12.44.57:220][191]LogModuleManager: Shutting down and abandoning module EditorStyle (188)
+[2019.11.07-12.44.57:221][191]LogModuleManager: Shutting down and abandoning module UnrealEd (186)
+[2019.11.07-12.44.57:221][191]LogModuleManager: Shutting down and abandoning module MRMesh (184)
+[2019.11.07-12.44.57:221][191]LogModuleManager: Shutting down and abandoning module SourceCodeAccess (182)
+[2019.11.07-12.44.57:221][191]LogModuleManager: Shutting down and abandoning module HeadMountedDisplay (180)
+[2019.11.07-12.44.57:221][191]LogModuleManager: Shutting down and abandoning module XAudio2 (178)
+[2019.11.07-12.44.57:221][191]LogModuleManager: Shutting down and abandoning module Networking (176)
+[2019.11.07-12.44.57:221][191]LogModuleManager: Shutting down and abandoning module Core (174)
+[2019.11.07-12.44.57:221][191]LogModuleManager: Shutting down and abandoning module KismetCompiler (172)
+[2019.11.07-12.44.57:221][191]LogModuleManager: Shutting down and abandoning module MeshUtilities (170)
+[2019.11.07-12.44.57:221][191]LogModuleManager: Shutting down and abandoning module MeshMergeUtilities (169)
+[2019.11.07-12.44.57:221][191]LogModuleManager: Shutting down and abandoning module MeshReductionInterface (168)
+[2019.11.07-12.44.57:221][191]LogModuleManager: Shutting down and abandoning module SkeletalMeshReduction (167)
+[2019.11.07-12.44.57:221][191]LogModuleManager: Shutting down and abandoning module ProxyLODMeshReduction (165)
+[2019.11.07-12.44.57:221][191]LogModuleManager: Shutting down and abandoning module QuadricMeshReduction (163)
+[2019.11.07-12.44.57:221][191]LogModuleManager: Shutting down and abandoning module MaterialBaking (159)
+[2019.11.07-12.44.57:221][191]LogModuleManager: Shutting down and abandoning module DerivedDataCache (154)
+[2019.11.07-12.44.57:317][191]LogDerivedDataCache: Shutdown
+[2019.11.07-12.44.57:317][191]LogModuleManager: Shutting down and abandoning module XGEController (152)
+[2019.11.07-12.44.57:317][191]LogXGEController: Cleaning working directory: C:/Users/Rohit/AppData/Local/Temp/UnrealXGEWorkingDir/
+[2019.11.07-12.44.57:317][191]LogModuleManager: Shutting down and abandoning module TargetPlatform (150)
+[2019.11.07-12.44.57:317][191]LogModuleManager: Shutting down and abandoning module VulkanShaderFormat (149)
+[2019.11.07-12.44.57:318][191]LogModuleManager: Shutting down and abandoning module ShaderFormatVectorVM (147)
+[2019.11.07-12.44.57:318][191]LogModuleManager: Shutting down and abandoning module ShaderFormatOpenGL (145)
+[2019.11.07-12.44.57:318][191]LogModuleManager: Shutting down and abandoning module ShaderFormatD3D (143)
+[2019.11.07-12.44.57:318][191]LogModuleManager: Shutting down and abandoning module MetalShaderFormat (141)
+[2019.11.07-12.44.57:318][191]LogModuleManager: Shutting down and abandoning module TextureFormatUncompressed (139)
+[2019.11.07-12.44.57:318][191]LogModuleManager: Shutting down and abandoning module TextureFormatPVR (137)
+[2019.11.07-12.44.57:318][191]LogModuleManager: Shutting down and abandoning module TextureFormatDXT (135)
+[2019.11.07-12.44.57:318][191]LogModuleManager: Shutting down and abandoning module TextureFormatIntelISPCTexComp (133)
+[2019.11.07-12.44.57:318][191]LogModuleManager: Shutting down and abandoning module TextureFormatASTC (131)
+[2019.11.07-12.44.57:318][191]LogModuleManager: Shutting down and abandoning module ImageWrapper (130)
+[2019.11.07-12.44.57:318][191]LogModuleManager: Shutting down and abandoning module TextureFormatAndroid (127)
+[2019.11.07-12.44.57:318][191]LogModuleManager: Shutting down and abandoning module AudioFormatOpus (125)
+[2019.11.07-12.44.57:318][191]LogModuleManager: Shutting down and abandoning module AudioFormatOgg (123)
+[2019.11.07-12.44.57:318][191]LogModuleManager: Shutting down and abandoning module AudioFormatADPCM (121)
+[2019.11.07-12.44.57:318][191]LogModuleManager: Shutting down and abandoning module LuminTargetPlatform (119)
+[2019.11.07-12.44.57:319][191]LogModuleManager: Shutting down and abandoning module LinuxTargetPlatform (117)
+[2019.11.07-12.44.57:319][191]LogModuleManager: Shutting down and abandoning module LinuxServerTargetPlatform (115)
+[2019.11.07-12.44.57:319][191]LogModuleManager: Shutting down and abandoning module LinuxNoEditorTargetPlatform (113)
+[2019.11.07-12.44.57:319][191]LogModuleManager: Shutting down and abandoning module LinuxClientTargetPlatform (111)
+[2019.11.07-12.44.57:319][191]LogModuleManager: Shutting down and abandoning module TVOSTargetPlatform (109)
+[2019.11.07-12.44.57:332][191]LogModuleManager: Shutting down and abandoning module Messaging (107)
+[2019.11.07-12.44.57:332][191]LogModuleManager: Shutting down and abandoning module IOSTargetPlatform (105)
+[2019.11.07-12.44.57:333][191]LogModuleManager: Shutting down and abandoning module HTML5TargetPlatform (103)
+[2019.11.07-12.44.57:333][191]LogModuleManager: Shutting down and abandoning module AndroidTargetPlatform (101)
+[2019.11.07-12.44.57:339][191]LogModuleManager: Shutting down and abandoning module WindowsTargetPlatform (99)
+[2019.11.07-12.44.57:339][191]LogModuleManager: Shutting down and abandoning module WindowsServerTargetPlatform (97)
+[2019.11.07-12.44.57:339][191]LogModuleManager: Shutting down and abandoning module WindowsNoEditorTargetPlatform (95)
+[2019.11.07-12.44.57:339][191]LogModuleManager: Shutting down and abandoning module WindowsClientTargetPlatform (93)
+[2019.11.07-12.44.57:339][191]LogModuleManager: Shutting down and abandoning module MacTargetPlatform (91)
+[2019.11.07-12.44.57:339][191]LogModuleManager: Shutting down and abandoning module MacServerTargetPlatform (89)
+[2019.11.07-12.44.57:339][191]LogModuleManager: Shutting down and abandoning module MacNoEditorTargetPlatform (87)
+[2019.11.07-12.44.57:339][191]LogModuleManager: Shutting down and abandoning module MacClientTargetPlatform (85)
+[2019.11.07-12.44.57:339][191]LogModuleManager: Shutting down and abandoning module AllDesktopTargetPlatform (83)
+[2019.11.07-12.44.57:339][191]LogModuleManager: Shutting down and abandoning module InputCore (80)
+[2019.11.07-12.44.57:339][191]LogModuleManager: Shutting down and abandoning module Settings (78)
+[2019.11.07-12.44.57:339][191]LogModuleManager: Shutting down and abandoning module DirectoryWatcher (76)
+[2019.11.07-12.44.57:339][191]LogModuleManager: Shutting down and abandoning module PhysXCooking (74)
+[2019.11.07-12.44.57:339][191]LogModuleManager: Shutting down and abandoning module SteamVR (72)
+[2019.11.07-12.44.57:339][191]LogHMD: Freeing OpenVRDLLHandle.
+[2019.11.07-12.44.57:339][191]LogModuleManager: Shutting down and abandoning module OculusHMD (70)
+[2019.11.07-12.44.57:339][191]LogModuleManager: Shutting down and abandoning module ExampleDeviceProfileSelector (68)
+[2019.11.07-12.44.57:339][191]LogModuleManager: Shutting down and abandoning module LauncherChunkInstaller (66)
+[2019.11.07-12.44.57:339][191]LogModuleManager: Shutting down and abandoning module OnlineBlueprintSupport (64)
+[2019.11.07-12.44.57:339][191]LogModuleManager: Shutting down and abandoning module OnlineSubsystem (60)
+[2019.11.07-12.44.57:340][191]LogModuleManager: Shutting down and abandoning module XMPP (55)
+[2019.11.07-12.44.57:340][191]LogModuleManager: Shutting down and abandoning module WebSockets (54)
+[2019.11.07-12.44.57:345][191]LogModuleManager: Shutting down and abandoning module HTTP (51)
+[2019.11.07-12.44.57:345][191]LogHttp: Display: Http module shutting down, but needs to wait on 1 outstanding Http requests:
+[2019.11.07-12.44.57:345][191]LogHttp: Display: 	verb=[POST] url=[https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B88314C6F-4E52-B319-36C6-50AE177E30DA%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.22.3-7053642%2B%2B%2BUE4%2BRelease-4.22&UserID=207490d14633a12c7c1977a0b44dabee%7C7b8e2bb8b466411588cadfe08ecd7de9%7C61e4c100-ac35-48f5-b2e6-89807693b8fd&AppEnvironment=datacollector-binary&UploadType=eteventstream] status=Processing
+[2019.11.07-12.44.57:379][191]LogModuleManager: Shutting down and abandoning module SSL (50)
+[2019.11.07-12.44.57:380][191]LogModuleManager: Shutting down and abandoning module WmfMedia (46)
+[2019.11.07-12.44.57:382][191]LogModuleManager: Shutting down and abandoning module Media (45)
+[2019.11.07-12.44.57:388][191]LogModuleManager: Shutting down and abandoning module MagicLeap (42)
+[2019.11.07-12.44.57:388][191]LogModuleManager: Shutting down and abandoning module DatasmithContent (40)
+[2019.11.07-12.44.57:389][191]LogModuleManager: Shutting down and abandoning module AnimationModifiers (38)
+[2019.11.07-12.44.57:389][191]LogModuleManager: Shutting down and abandoning module PropertyEditor (37)
+[2019.11.07-12.44.57:389][191]LogModuleManager: Shutting down and abandoning module AudioEditor (34)
+[2019.11.07-12.44.57:389][191]LogModuleManager: Shutting down and abandoning module TextureCompressor (32)
+[2019.11.07-12.44.57:389][191]LogModuleManager: Shutting down and abandoning module RenderCore (30)
+[2019.11.07-12.44.57:389][191]LogModuleManager: Shutting down and abandoning module Landscape (28)
+[2019.11.07-12.44.57:389][191]LogModuleManager: Shutting down and abandoning module SlateRHIRenderer (26)
+[2019.11.07-12.44.57:392][191]LogModuleManager: Shutting down and abandoning module OpenGLDrv (24)
+[2019.11.07-12.44.57:392][191]LogModuleManager: Shutting down and abandoning module D3D11RHI (22)
+[2019.11.07-12.44.57:392][191]LogModuleManager: Shutting down and abandoning module AnimGraphRuntime (20)
+[2019.11.07-12.44.57:392][191]LogModuleManager: Shutting down and abandoning module Renderer (18)
+[2019.11.07-12.44.57:392][191]LogModuleManager: Shutting down and abandoning module Engine (16)
+[2019.11.07-12.44.57:392][191]LogModuleManager: Shutting down and abandoning module CoreUObject (14)
+[2019.11.07-12.44.57:392][191]LogModuleManager: Shutting down and abandoning module NetworkFile (12)
+[2019.11.07-12.44.57:392][191]LogModuleManager: Shutting down and abandoning module CookedIterativeFile (10)
+[2019.11.07-12.44.57:392][191]LogModuleManager: Shutting down and abandoning module StreamingFile (8)
+[2019.11.07-12.44.57:392][191]LogModuleManager: Shutting down and abandoning module SandboxFile (6)
+[2019.11.07-12.44.57:392][191]LogModuleManager: Shutting down and abandoning module PakFile (4)
+[2019.11.07-12.44.57:392][191]LogModuleManager: Shutting down and abandoning module RSA (3)
+[2019.11.07-12.44.57:397][191]LogExit: Exiting.
+[2019.11.07-12.44.57:412][191]Log file closed, 11/07/19 18:14:57
